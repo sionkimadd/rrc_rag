@@ -1,0 +1,290 @@
+[
+  {
+    "QUESTION": "What skills are developed in COMP-1334 Design Thinking and Innovation within the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1334 helps students develop skills in empathizing with users, challenging assumptions, redefining problems, working in teams, developing and testing prototypes, and honing presentation skills."
+  },
+  {
+    "QUESTION": "How does COMP-1701 Transforming Data Into Databases contribute to the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1701 teaches students to handle, parse, structure, and manipulate datasets, produce ERDs, and use SQL and NoSQL to manage databases effectively."
+  },
+  {
+    "QUESTION": "What is the primary focus of COMP-1702 Introduction to Data Science and Machine Learning in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1702 focuses on introducing students to Data Science and Machine Learning, including industry tools, technologies, and real-world applications."
+  },
+  {
+    "QUESTION": "What are the prerequisites for COMP-2042 IT Service Desk and Customer Support in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisites for COMP-2042 are COMP-1309 or COMP-1332, COMP-1311 or COMP-1329, and COMP-1312 or COMP-1328."
+  },
+  {
+    "QUESTION": "What practical skills are reinforced in COMP-2042 IT Service Desk and Customer Support within the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-2042 reinforces troubleshooting, customer experience skills, and the ability to manage incidents using knowledge base articles."
+  },
+  {
+    "QUESTION": "How does COMP-1334 Design Thinking and Innovation enhance innovation in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1334 enhances innovation by teaching students to empathize with users, challenge assumptions, and redefine problems to create innovative solutions."
+  },
+  {
+    "QUESTION": "What database skills are taught in COMP-1701 Transforming Data Into Databases in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1701 teaches students to use SQL and NoSQL, including key-value pairs, document stores, and advanced commands like complex JOINs and full-text search indexing."
+  },
+  {
+    "QUESTION": "How does COMP-1702 Introduction to Data Science and Machine Learning impact students' understanding of industry applications in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1702 impacts students' understanding by analyzing real case studies of how industry applies DSML tools to improve performance."
+  },
+  {
+    "QUESTION": "What is the role of customer service in COMP-2042 IT Service Desk and Customer Support in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-2042 emphasizes the customer service model and communication skills, such as positive messaging during stressful events."
+  },
+  {
+    "QUESTION": "What is the significance of prototyping in COMP-1334 Design Thinking and Innovation within the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, prototyping in COMP-1334 is significant for developing and testing innovative solutions to real-world problems."
+  },
+  {
+    "QUESTION": "How does COMP-1701 Transforming Data Into Databases prepare students for database management in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1701 prepares students for database management by teaching them to normalize datasets and tune query performance using indexing and de-normalization."
+  },
+  {
+    "QUESTION": "What is the educational approach of COMP-2042 IT Service Desk and Customer Support in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-2042 uses a practical approach to reinforce troubleshooting and customer support skills, including identity and access management and configuring end-point solutions."
+  },
+  {
+    "QUESTION": "What skills are emphasized in the COMP-2044 Security Foundations course within the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2044 Security Foundations course emphasizes information security skills, including conducting security assessments, implementing solutions, monitoring threats, and responding to specific events."
+  },
+  {
+    "QUESTION": "Which prerequisites are required for enrolling in COMP-2045 Cloud Infrastructure RPL in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisites for enrolling in COMP-2045 Cloud Infrastructure RPL are taking one of COMP-1310, COMP-3019, or COMP-3008, and one of COMP-1311, COMP-1329, or COMP-1295."
+  },
+  {
+    "QUESTION": "What certification does the COMP-2045 Cloud Infrastructure RPL course prepare students for in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2045 Cloud Infrastructure RPL course prepares students for the AWS certified Cloud Practitioner Foundational certification exam."
+  },
+  {
+    "QUESTION": "What are the main topics covered in the COMP-2230 Front-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2230 Front-End Development course covers writing code to structure a web page, applying design and accessibility standards, adding interactivity, and connecting to an API."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the COMP-2230 Front-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite for the COMP-2230 Front-End Development course is COMP-1327."
+  },
+  {
+    "QUESTION": "What programming skills are taught in the COMP-2231 Data Analysis with Libraries course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2231 Data Analysis with Libraries course teaches students the basics of analyzing data using a programming language and related tools."
+  },
+  {
+    "QUESTION": "How does the COMP-2044 Security Foundations course in the Application Development and Delivery program address legal and ethical considerations?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2044 Security Foundations course teaches students to operate with an awareness of relevant laws and policies and to demonstrate ethical reasoning."
+  },
+  {
+    "QUESTION": "What type of project do students undertake in the COMP-2045 Cloud Infrastructure RPL course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students in the COMP-2045 Cloud Infrastructure RPL course configure, deploy, and maintain a cloud service as part of a comprehensive project."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-2231 Data Analysis with Libraries course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2231 Data Analysis with Libraries course focuses on data science and machine learning and their uses in business applications."
+  },
+  {
+    "QUESTION": "What tools do students use in the COMP-2231 Data Analysis with Libraries course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students in the COMP-2231 Data Analysis with Libraries course use tools to import, prepare, visualize, and interpret data."
+  },
+  {
+    "QUESTION": "What is the role of version control in the COMP-2230 Front-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2230 Front-End Development course teaches students to use a version control system to maintain their code."
+  },
+  {
+    "QUESTION": "How do students in the COMP-2231 Data Analysis with Libraries course in the Application Development and Delivery program apply their learning?",
+    "ANSWER": "In the Application Development and Delivery program, students in the COMP-2231 Data Analysis with Libraries course work in groups on case studies using real-life data sets."
+  },
+  {
+    "QUESTION": "What is the primary focus of the COMP-2232 Internet of Things course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the primary focus of the COMP-2232 Internet of Things course is to build functional IoT projects and control and monitor them using a programming language and framework."
+  },
+  {
+    "QUESTION": "How does the COMP-2327 Intermediate Software Development course enhance programming skills in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2327 Intermediate Software Development course enhances programming skills by introducing data types and structures, scope, algorithms, design patterns, unit testing, and user documentation."
+  },
+  {
+    "QUESTION": "What are the prerequisites for enrolling in the COMP-3018 Back-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisites for enrolling in the COMP-3018 Back-End Development course are COMP-1701 and COMP-2230."
+  },
+  {
+    "QUESTION": "What skills do students develop in the COMP-3019 Application Design and Delivery course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students develop skills in analyzing client needs, interpreting software architecture plans, and managing software development projects with an emphasis on agile methodologies in the COMP-3019 course."
+  },
+  {
+    "QUESTION": "What is the role of agile methodologies in the COMP-3019 Application Design and Delivery course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, agile methodologies play a role in managing software development projects and facilitating collaboration among teams of developers, clients, leaders, and other IT professionals in the COMP-3019 course."
+  },
+  {
+    "QUESTION": "How does the COMP-2232 Internet of Things course integrate mobile device applications in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2232 Internet of Things course integrates mobile device applications by teaching students to rapidly develop applications to control physical devices."
+  },
+  {
+    "QUESTION": "What is the significance of version control systems in the COMP-3018 Back-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, version control systems are significant in the COMP-3018 Back-End Development course as they facilitate collaborative work in setting up a back-end environment and managing code changes."
+  },
+  {
+    "QUESTION": "What programming concepts are emphasized in the COMP-2327 Intermediate Software Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-2327 Intermediate Software Development course emphasizes programming concepts such as data types, structures, algorithms, design patterns, and unit testing."
+  },
+  {
+    "QUESTION": "How does the COMP-3018 Back-End Development course address API creation in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-3018 Back-End Development course addresses API creation by teaching students to create an API based on REST architecture and manage routes, responses, and user authentication."
+  },
+  {
+    "QUESTION": "What is the importance of user documentation in the COMP-2327 Intermediate Software Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, user documentation is important in the COMP-2327 Intermediate Software Development course as it helps students integrate sophisticated programming ideas and align with modern industry practices."
+  },
+  {
+    "QUESTION": "How do students experience collaboration in the COMP-3019 Application Design and Delivery course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students experience collaboration in the COMP-3019 Application Design and Delivery course by working in groups on an agile project, simulating real-world teamwork with clients and IT professionals."
+  },
+  {
+    "QUESTION": "What is the role of testing in the COMP-3018 Back-End Development course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, testing plays a role in the COMP-3018 Back-End Development course by ensuring that the API functions correctly, handling responses, and processing user input securely."
+  },
+  {
+    "QUESTION": "What is the primary focus of COMP-3020 Cloud Infrastructure and Development in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-3020 focuses on introducing students to cloud platforms, setting up cloud services, and developing interactive applications in the cloud with a serverless backend, API gateway, and database."
+  },
+  {
+    "QUESTION": "How do students in the Application Development and Delivery program ensure code quality in COMP-3020?",
+    "ANSWER": "In the Application Development and Delivery program, students ensure code quality in COMP-3020 by using an agile workflow to test code for syntax, accessibility, and security, and by continuously integrating their work."
+  },
+  {
+    "QUESTION": "What skills are emphasized in COMP-3021 Secure Coding and Testing RPL within the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-3021 emphasizes skills in reviewing code for security, using automated tools to identify vulnerabilities, and applying strategies to prevent common vulnerabilities and exposures."
+  },
+  {
+    "QUESTION": "What legal and ethical topics are covered in COMP-3021 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-3021 covers legal requirements related to secure coding and ethical issues in software development."
+  },
+  {
+    "QUESTION": "What is the role of orchestration tools in COMP-4001 Developing in a DevOps Environment in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, orchestration tools in COMP-4001 are used to process, configure, deploy, and manage a containerized application at scale."
+  },
+  {
+    "QUESTION": "How do students in the Application Development and Delivery program learn about code movement in COMP-4001?",
+    "ANSWER": "In the Application Development and Delivery program, students learn about code movement in COMP-4001 by practicing the continuous integration/continuous deployment workflow to build and maintain a code base through development, testing, and production environments."
+  },
+  {
+    "QUESTION": "What maintenance skills are taught in COMP-4001 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-4001 teaches students to maintain applications and infrastructure by using tools to monitor performance and send alerts when issues arise."
+  },
+  {
+    "QUESTION": "What project do students undertake in COMP-4002 Full Stack Development in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students in COMP-4002 undertake the project of designing and developing an e-commerce system using a programming language and associated framework."
+  },
+  {
+    "QUESTION": "What additional topics are covered in COMP-4002 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-4002 covers additional topics such as server configuration, application deployment, source control, and other contemporary web development topics."
+  },
+  {
+    "QUESTION": "What prerequisite courses are required for COMP-3020 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite courses for COMP-3020 are COMP-2230 and COMP-1333."
+  },
+  {
+    "QUESTION": "What prerequisite course is required for COMP-3021 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite course for COMP-3021 is COMP-2327."
+  },
+  {
+    "QUESTION": "What prerequisite courses are required for COMP-4001 in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite courses for COMP-4001 are COMP-3020 and COMP-3018."
+  },
+  {
+    "QUESTION": "What is the main objective of the COOP-5001 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the main objective of the COOP-5001 course is to integrate related on-the-job experience with classroom theory by incorporating a term of paid or unpaid employment in the final term of the program."
+  },
+  {
+    "QUESTION": "What skills are students expected to practice during the INDP-5002 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, students are expected to practice software design and delivery skills, teamwork, communication, critical thinking, problem solving, research, independence, and life-long learning during the INDP-5002 course."
+  },
+  {
+    "QUESTION": "Which course in the Application Development and Delivery program focuses on connecting business applications using APIs?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-4004 course focuses on connecting business applications using industry standard application programming interfaces (APIs)."
+  },
+  {
+    "QUESTION": "What are the prerequisites for enrolling in the COMP-4005 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisites for enrolling in the COMP-4005 course are COMP-3020 and COMP-3018."
+  },
+  {
+    "QUESTION": "How does the INDP-5002 course in the Application Development and Delivery program provide real-world experience?",
+    "ANSWER": "In the Application Development and Delivery program, the INDP-5002 course provides real-world experience by having project teams work jointly with industry partners at the ACE Project Space facility."
+  },
+  {
+    "QUESTION": "What testing techniques are covered in the COMP-4005 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-4005 course covers functional and end-to-end testing, unit testing, and automated tests."
+  },
+  {
+    "QUESTION": "What is the role of continuous integration in the COMP-4005 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, continuous integration is used in the COMP-4005 course to create a single page web application as part of team workflows."
+  },
+  {
+    "QUESTION": "What is the significance of A/B testing in the COMP-4005 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, A/B testing in the COMP-4005 course is significant for determining user preference."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the COOP-5001 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite for the COOP-5001 course is the completion of all term 1, 2, and 3 courses and at least 75% of term 4 courses."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-4004 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the focus of the COMP-4004 course is on connecting business applications using both standalone and cloud APIs."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the INDP-5002 course in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, the prerequisite for the INDP-5002 course is the completion of all term 1, 2, and 3 courses and at least 75% of term 4 courses."
+  },
+  {
+    "QUESTION": "How does the COMP-4005 course in the Application Development and Delivery program address web page performance?",
+    "ANSWER": "In the Application Development and Delivery program, the COMP-4005 course addresses web page performance by teaching students to assess and optimize it."
+  },
+  {
+    "QUESTION": "What are the possible class hours for the Application Development and Delivery program at Red River College Polytechnic?",
+    "ANSWER": "Classes for the Application Development and Delivery program at Red River College Polytechnic may be scheduled between 8:00 a.m. and 10:00 p.m."
+  },
+  {
+    "QUESTION": "Can the Application Development and Delivery program at Red River College Polytechnic be modified or canceled without notice?",
+    "ANSWER": "Yes, the Application Development and Delivery program at Red River College Polytechnic can be modified or canceled without notice."
+  },
+  {
+    "QUESTION": "Where can students find information about the Application Development and Delivery program's co-op or practicum opportunities?",
+    "ANSWER": "Students can find information about the Application Development and Delivery program's co-op or practicum opportunities under the 'CO-OP/Practicum Information' section."
+  },
+  {
+    "QUESTION": "What should students do if they need help with the Application Development and Delivery program?",
+    "ANSWER": "If students need help with the Application Development and Delivery program, they should contact Academic Advising or Accessibility services."
+  },
+  {
+    "QUESTION": "Where can prospective students apply for the Application Development and Delivery program?",
+    "ANSWER": "Prospective students can apply for the Application Development and Delivery program by visiting the 'Apply Today' section on the website."
+  },
+  {
+    "QUESTION": "What is the policy on fee changes for the Application Development and Delivery program at Red River College Polytechnic?",
+    "ANSWER": "Fees for the Application Development and Delivery program at Red River College Polytechnic may change without notice."
+  },
+  {
+    "QUESTION": "How can current students access their information for the Application Development and Delivery program?",
+    "ANSWER": "Current students can access their information for the Application Development and Delivery program through the HUB."
+  },
+  {
+    "QUESTION": "What type of support is available for students in the Application Development and Delivery program regarding financial aid?",
+    "ANSWER": "Students in the Application Development and Delivery program have access to financial aid, scholarships, and bursaries."
+  },
+  {
+    "QUESTION": "What is the purpose of the 'Credit for Education, Work and Life Learning' support in the Application Development and Delivery program?",
+    "ANSWER": "The 'Credit for Education, Work and Life Learning' support in the Application Development and Delivery program is designed to recognize students' prior learning and experiences."
+  },
+  {
+    "QUESTION": "Where can students find the most current version of the Application Development and Delivery program information?",
+    "ANSWER": "Students can find the most current version of the Application Development and Delivery program information on the Red River College Polytechnic website."
+  },
+  {
+    "QUESTION": "What should students do if they want to log in to their Future Student Account for the Application Development and Delivery program?",
+    "ANSWER": "Students should use the 'LOGIN' option to access their Future Student Account for the Application Development and Delivery program."
+  },
+  {
+    "QUESTION": "What is the significance of the 'Back to top' link in the context of the Application Development and Delivery program information?",
+    "ANSWER": "The 'Back to top' link allows users to quickly return to the top of the page when viewing the Application Development and Delivery program information."
+  }
+]
