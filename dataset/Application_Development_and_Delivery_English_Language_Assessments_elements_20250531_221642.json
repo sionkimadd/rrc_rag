@@ -32,8 +32,8 @@
     "ANSWER": "The minimum Password Skills score required is 6.5 overall with no band below 6.0."
   },
   {
-    "QUESTION": "What is the minimum score required in the New English for Academic and Professional Purposes program for certificates and diplomas in the Application Development and Delivery program?",
-    "ANSWER": "Successful completion of the program with a minimum of 70% is required."
+    "QUESTION": "What is the minimum score required for the New English for Academic and Professional Purposes program for bachelor degrees in the Application Development and Delivery program?",
+    "ANSWER": "Successful completion of the program 5 with a minimum of 70% is required."
   },
   {
     "QUESTION": "What is the minimum TOEFL-ibt score required for certificates and diplomas in the Application Development and Delivery program?",
@@ -61,38 +61,38 @@
   },
   {
     "QUESTION": "Are scholarships available for students in the Application Development and Delivery program?",
-    "ANSWER": "Yes, scholarships are available for students in the Application Development and Delivery program."
+    "ANSWER": "Yes, scholarships are available as part of the Scholarships and Bursaries support."
   },
   {
-    "QUESTION": "What is the purpose of the 'Future Student Account' in the context of the Application Development and Delivery program?",
-    "ANSWER": "The 'Future Student Account' is likely intended for prospective students interested in the Application Development and Delivery program."
-  },
-  {
-    "QUESTION": "What is the role of the 'Current Students (HUB)' in the Application Development and Delivery program?",
-    "ANSWER": "The 'Current Students (HUB)' likely serves as a resource or portal for current students in the Application Development and Delivery program."
+    "QUESTION": "What is the purpose of the HUB for current students in the Application Development and Delivery program?",
+    "ANSWER": "The HUB serves as a resource for current students to access various supports and information."
   },
   {
     "QUESTION": "Can students in the Application Development and Delivery program apply for bursaries?",
-    "ANSWER": "Yes, students in the Application Development and Delivery program can apply for bursaries."
+    "ANSWER": "Yes, students can apply for bursaries as part of the Scholarships and Bursaries support."
+  },
+  {
+    "QUESTION": "What is the role of the Future Student Account for those interested in the Application Development and Delivery program?",
+    "ANSWER": "The Future Student Account is likely a portal for prospective students to access information and resources related to the program."
   },
   {
     "QUESTION": "What kind of learning credits can be applied to the Application Development and Delivery program?",
     "ANSWER": "Learning credits can be applied through the Credit for Education, Work and Life Learning support."
   },
   {
-    "QUESTION": "Is there a support system for students in the Application Development and Delivery program to manage their finances?",
-    "ANSWER": "Yes, there is a support system for managing finances through Financial Aid."
+    "QUESTION": "Is there a specific support system for current students in the Application Development and Delivery program?",
+    "ANSWER": "Yes, current students have access to the HUB for support."
   },
   {
     "QUESTION": "What financial support options are available for students in the Application Development and Delivery program?",
-    "ANSWER": "Financial support options include Financial Aid, Scholarships, and Bursaries."
+    "ANSWER": "Financial support options include Financial Aid and Scholarships and Bursaries."
   },
   {
-    "QUESTION": "How can students in the Application Development and Delivery program benefit from the 'Credit for Education, Work and Life Learning' support?",
+    "QUESTION": "How can students in the Application Development and Delivery program benefit from the Credit for Education, Work and Life Learning support?",
     "ANSWER": "Students can benefit by receiving credits for their prior education, work, and life experiences."
   },
   {
-    "QUESTION": "What resources are available for current students in the Application Development and Delivery program?",
-    "ANSWER": "Resources available for current students include the Current Students (HUB) and various support options like Financial Aid and Scholarships."
+    "QUESTION": "What resources are available for prospective students interested in the Application Development and Delivery program?",
+    "ANSWER": "Prospective students can utilize the Future Student Account to access resources and information."
   }
 ]

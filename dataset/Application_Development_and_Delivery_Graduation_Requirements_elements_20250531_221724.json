@@ -32,19 +32,19 @@
     "ANSWER": "Yes, the College reserves the right to modify or cancel any course, program, process, or procedure without notice or prejudice."
   },
   {
-    "QUESTION": "What type of registration does the Application Development and Delivery program offer?",
-    "ANSWER": "The program offers course-based registration."
+    "QUESTION": "What is the policy on fee changes for the Application Development and Delivery program?",
+    "ANSWER": "Fees may change without notice."
   },
   {
     "QUESTION": "Can students complete the Application Development and Delivery program on a part-time basis?",
-    "ANSWER": "Yes, students can complete the program on either a part-time or full-time basis."
-  },
-  {
-    "QUESTION": "Where can students find support for financial aid in the Application Development and Delivery program?",
-    "ANSWER": "Students can find support for financial aid under the 'SUPPORTS' section, which includes Financial Aid, Scholarships, and Bursaries."
+    "ANSWER": "Yes, course-based registration allows students to complete the program on either a part-time or full-time basis."
   },
   {
     "QUESTION": "What is the typical completion time for full-time students in the Application Development and Delivery program who take a study break each year?",
     "ANSWER": "Typical full-time students who take a four-month study break each year will complete the program in 28 months."
+  },
+  {
+    "QUESTION": "Where can students find support for financial aid in the Application Development and Delivery program?",
+    "ANSWER": "Students can find support for financial aid under the 'SUPPORTS' section, which includes Financial Aid, Scholarships, and Bursaries."
   }
 ]
