@@ -1,0 +1,802 @@
+[
+  {
+    "QUESTION": "What is the entry date for the Information Security program?",
+    "ANSWER": "The entry date for the Information Security program is in the Fall."
+  },
+  {
+    "QUESTION": "Where is the Information Security program located?",
+    "ANSWER": "The Information Security program is located at the Exchange District Campus in Winnipeg."
+  },
+  {
+    "QUESTION": "What type of diploma is awarded upon completion of the Information Security program?",
+    "ANSWER": "A two-year post-graduate diploma is awarded upon completion of the Information Security program."
+  },
+  {
+    "QUESTION": "What is the focus of the Information Security program?",
+    "ANSWER": "The focus of the Information Security program is to develop skills for a security-centric organizational culture, secure architecture and design, governance, risk management, and compliance principles, and advanced cybersecurity threat mitigation techniques."
+  },
+  {
+    "QUESTION": "Does the Information Security program include a Work Integrated Learning experience?",
+    "ANSWER": "Yes, the Information Security program includes a Work Integrated Learning experience."
+  },
+  {
+    "QUESTION": "What should international applicants do to apply for the Information Security program?",
+    "ANSWER": "International applicants should visit Academic Program, Dates and Fees for a listing of programs for international students, current availability, and online application instructions."
+  },
+  {
+    "QUESTION": "What is the purpose of the Information Security program?",
+    "ANSWER": "The purpose of the Information Security program is to safeguard data integrity, digital assets, and systems in an ever-changing security landscape."
+  },
+  {
+    "QUESTION": "What kind of experience will students gain in the Information Security program?",
+    "ANSWER": "Students will gain real-world experience through practical application of advanced information security frameworks and methodologies in compliance with regulatory requirements."
+  },
+  {
+    "QUESTION": "What are students required to submit for admission to the Information Security program?",
+    "ANSWER": "Students are required to submit transcripts verifying their complete academic history, including any public or private high school, college, university, or technical institute they have attended."
+  },
+  {
+    "QUESTION": "How should documents be submitted for the Information Security program application?",
+    "ANSWER": "Documents should be scanned, saved, and uploaded through the Future Student Account at apply.rrc.ca."
+  },
+  {
+    "QUESTION": "What should applicants do if their academic history includes studies at an institution other than Red River College Polytechnic?",
+    "ANSWER": "Applicants should visit My Education for important information if their academic history includes studies at an institution other than Red River College Polytechnic."
+  },
+  {
+    "QUESTION": "What is the significance of aligning security strategies with organizational goals in the Information Security program?",
+    "ANSWER": "Aligning security strategies with organizational goals is significant in the Information Security program as it ensures that security measures meet evolving threats and business needs through collaboration with stakeholders."
+  },
+  {
+    "QUESTION": "What is emphasized in the organizational culture within the Information Security program?",
+    "ANSWER": "A security-centric organizational culture is emphasized within the Information Security program."
+  },
+  {
+    "QUESTION": "What should applicants do if they have completed Modified, English as an Additional Language, or GED high school courses?",
+    "ANSWER": "Applicants should visit My Education for important information if they have completed Modified, English as an Additional Language, or GED high school courses."
+  },
+  {
+    "QUESTION": "What is the role of governance in the Information Security program?",
+    "ANSWER": "Governance plays a role in the Information Security program by helping to manage security risks and ensure compliance with regulatory requirements."
+  },
+  {
+    "QUESTION": "What is the importance of risk management in the Information Security program?",
+    "ANSWER": "Risk management is important in the Information Security program as it helps to identify and mitigate potential security threats."
+  },
+  {
+    "QUESTION": "What is the role of compliance principles in the Information Security program?",
+    "ANSWER": "Compliance principles in the Information Security program ensure that security measures adhere to regulatory requirements."
+  },
+  {
+    "QUESTION": "What is the importance of advanced cybersecurity threat mitigation techniques in the Information Security program?",
+    "ANSWER": "Advanced cybersecurity threat mitigation techniques are important in the Information Security program to protect against evolving security threats."
+  },
+  {
+    "QUESTION": "What should applicants do if they have international secondary (high school) studies?",
+    "ANSWER": "Applicants with international secondary (high school) studies should visit My Education for important information."
+  },
+  {
+    "QUESTION": "What is the significance of secure architecture and design in the Information Security program?",
+    "ANSWER": "Secure architecture and design are significant in the Information Security program as they help to build robust security infrastructures."
+  },
+  {
+    "QUESTION": "What is one of the regular admission requirements for the Information Security program?",
+    "ANSWER": "One of the regular admission requirements for the Information Security program is to submit proof of graduation from or enrolment in a certificate, diploma, or degree related to Information Technology from a recognized post-secondary institution."
+  },
+  {
+    "QUESTION": "What should an applicant do if they apply to the Information Security program within 6 weeks of the program start date?",
+    "ANSWER": "If an applicant applies to the Information Security program within 6 weeks of the program start date, admission requirements are due within 5 days of applying."
+  },
+  {
+    "QUESTION": "What is the minimum work experience required for the Information Security program under the regular admission requirements?",
+    "ANSWER": "The minimum work experience required for the Information Security program under the regular admission requirements is 1 year of relevant information technology or information security work experience."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting official final grades for fall enrolment in the Information Security program?",
+    "ANSWER": "The deadline for submitting official final grades for fall enrolment in the Information Security program is July 15."
+  },
+  {
+    "QUESTION": "What should an applicant do if they are required to complete an English language assessment for the Information Security program?",
+    "ANSWER": "If an applicant is required to complete an English language assessment for the Information Security program, they should not submit their transcripts until requested to do so."
+  },
+  {
+    "QUESTION": "What is the recommended work experience for the Information Security program?",
+    "ANSWER": "The college recommends 2-3 years of work experience for the Information Security program."
+  },
+  {
+    "QUESTION": "What is one of the post-secondary programs recognized for admission to the Information Security program?",
+    "ANSWER": "One of the post-secondary programs recognized for admission to the Information Security program is Red River College Polytechnic's Information Security Advanced Diploma."
+  },
+  {
+    "QUESTION": "What is the requirement for post-secondary transcripts for the Information Security program?",
+    "ANSWER": "Post-secondary transcripts for the Information Security program must have been issued within 6 months prior to the application date and submitted in a sealed envelope directly from the post-secondary institution."
+  },
+  {
+    "QUESTION": "What is the English Language Requirement for the Information Security program if an applicant has completed 3 years of full-time high school in Canada?",
+    "ANSWER": "If an applicant has completed 3 years of full-time high school in Canada, they meet the English Language Requirements for the Information Security program."
+  },
+  {
+    "QUESTION": "What should an applicant do if their transcripts are from the USA for the Information Security program?",
+    "ANSWER": "If an applicant's transcripts are from the USA for the Information Security program, an International Credentials Assessment Fee will be assessed and must be paid before the transcripts will be reviewed."
+  },
+  {
+    "QUESTION": "What is the age requirement for applying under the Mature Student admission requirements for the Information Security program?",
+    "ANSWER": "The age requirement for applying under the Mature Student admission requirements for the Information Security program is 19 years of age or older on or before September 30 in the year of registration."
+  },
+  {
+    "QUESTION": "What is the minimum paid employment experience required for Mature Student admission to the Information Security program?",
+    "ANSWER": "The minimum paid employment experience required for Mature Student admission to the Information Security program is 1 year in an information technology-related role."
+  },
+  {
+    "QUESTION": "What is the website to visit for credential assessment information for internationally educated applicants to the Information Security program?",
+    "ANSWER": "The website to visit for credential assessment information for internationally educated applicants to the Information Security program is www.rrc.ca/credentials."
+  },
+  {
+    "QUESTION": "What should an applicant do if they do not have a Future Student Account for the Information Security program?",
+    "ANSWER": "If an applicant does not have a Future Student Account for the Information Security program, they should contact the Student Service Centre at 204-632-2327 for assistance."
+  },
+  {
+    "QUESTION": "What is one of the programs at Red River College Polytechnic that is related to the Information Security program?",
+    "ANSWER": "One of the programs at Red River College Polytechnic that is related to the Information Security program is the Cybersecurity Diploma Program."
+  },
+  {
+    "QUESTION": "What is the requirement for submitting a Personal Resume for the Information Security program?",
+    "ANSWER": "The requirement for submitting a Personal Resume for the Information Security program is to demonstrate relevant information technology or information security work experience."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting required documentation indicating proof of completion of admission requirements for the Information Security program?",
+    "ANSWER": "The deadline for submitting required documentation indicating proof of completion of admission requirements for the Information Security program is within 15 days of applying unless otherwise noted in the program's admission requirements."
+  },
+  {
+    "QUESTION": "What is one of the degrees recognized for admission to the Information Security program?",
+    "ANSWER": "One of the degrees recognized for admission to the Information Security program is a Computer Science Degree."
+  },
+  {
+    "QUESTION": "What is the requirement for English Language Requirements if an applicant completed all education in Canada for the Information Security program?",
+    "ANSWER": "If an applicant completed all education in Canada for the Information Security program, they should submit their transcripts for review even if they did not graduate high school."
+  },
+  {
+    "QUESTION": "What is the role of the Student Service Centre in the application process for the Information Security program?",
+    "ANSWER": "The role of the Student Service Centre in the application process for the Information Security program is to provide assistance to applicants who do not have a Future Student Account or require help."
+  },
+  {
+    "QUESTION": "What is the minimum IELTS Academic Level score required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum IELTS Academic Level score required for the Information Security program for Bachelor Degrees is an overall 6.5 with no band below 6.0."
+  },
+  {
+    "QUESTION": "What is the minimum Duolingo Language Test score required for the Information Security program for Creative Communication?",
+    "ANSWER": "The minimum Duolingo Language Test score required for the Information Security program for Creative Communication is 125 and above with a minimum of 100 in each section."
+  },
+  {
+    "QUESTION": "What is the minimum TOEFL-ibt Academic Level score required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum TOEFL-ibt Academic Level score required for the Information Security program for Bachelor Degrees is 90 with 22 in Listening, 22 in Speaking, 22 in Reading, and 24 in Writing."
+  },
+  {
+    "QUESTION": "What is the minimum PTE score required for the Information Security program for Post Graduate Certificates?",
+    "ANSWER": "The minimum PTE score required for the Information Security program for Post Graduate Certificates is 54 overall with a minimum of 50 in each skill."
+  },
+  {
+    "QUESTION": "What is the start date for the Information Security program at Manitou a bi Bii daziigae?",
+    "ANSWER": "The start date for the Information Security program at Manitou a bi Bii daziigae is August 25, 2025."
+  },
+  {
+    "QUESTION": "What is the estimated cost for books and supplies for the Information Security program in Year 1?",
+    "ANSWER": "The estimated cost for books and supplies for the Information Security program in Year 1 includes an estimate of $1600 for the purchase of a laptop and an estimate of $250 for the purchase of software licenses."
+  },
+  {
+    "QUESTION": "What financial assistance is available for students in the Information Security program?",
+    "ANSWER": "Students in the Information Security program may apply for financial assistance through the Manitoba Student Aid program."
+  },
+  {
+    "QUESTION": "What is the minimum CAEL score required for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum CAEL score required for the Information Security program for Diplomas is an overall band score of 60."
+  },
+  {
+    "QUESTION": "What is the minimum LINC Certificate level required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum LINC Certificate level required for the Information Security program for Bachelor Degrees is 8."
+  },
+  {
+    "QUESTION": "What is the minimum Password Skills score required for the Information Security program for Advanced Diplomas?",
+    "ANSWER": "The minimum Password Skills score required for the Information Security program for Advanced Diplomas is an overall 6.0 with no band below 5.5."
+  },
+  {
+    "QUESTION": "What is the minimum New English for Academic and Professional Purposes requirement for the Information Security program for Post-graduate Diplomas?",
+    "ANSWER": "The minimum requirement for the New English for Academic and Professional Purposes for the Information Security program for Post-graduate Diplomas is successful completion of the program 5 with a minimum of 70%."
+  },
+  {
+    "QUESTION": "What is the minimum TOEFL-ibt Academic Level score required for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum TOEFL-ibt Academic Level score required for the Information Security program for Diplomas is 80 with 20 in Listening, 20 in Speaking, 19 in Reading, and 21 in Writing."
+  },
+  {
+    "QUESTION": "What is the minimum PTE score required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum PTE score required for the Information Security program for Bachelor Degrees is 60 overall with a minimum of 55 in each skill band."
+  },
+  {
+    "QUESTION": "What is the minimum IELTS Academic Level score required for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum IELTS Academic Level score required for the Information Security program for Diplomas is an overall 6.0 with no band below 5.5."
+  },
+  {
+    "QUESTION": "What is the minimum Duolingo Language Test score required for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum Duolingo Language Test score required for the Information Security program for Diplomas is 115 and above with a minimum of 95 in each section."
+  },
+  {
+    "QUESTION": "What is the minimum CAEL score required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum CAEL score required for the Information Security program for Bachelor Degrees is an overall band score of 70 and Writing of 60."
+  },
+  {
+    "QUESTION": "What is the minimum Password Skills score required for the Information Security program for Bachelor Degrees?",
+    "ANSWER": "The minimum Password Skills score required for the Information Security program for Bachelor Degrees is an overall 6.5 with no band below 6.0."
+  },
+  {
+    "QUESTION": "What is the minimum LINC Certificate level required for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum LINC Certificate level required for the Information Security program for Diplomas is 7."
+  },
+  {
+    "QUESTION": "What is the minimum New English for Academic and Professional Purposes requirement for the Information Security program for Diplomas?",
+    "ANSWER": "The minimum requirement for the New English for Academic and Professional Purposes for the Information Security program for Diplomas is successful completion of the program 5 with a minimum of 70%."
+  },
+  {
+    "QUESTION": "What is the minimum TOEFL-ibt Academic Level score required for the Information Security program for Creative Communication?",
+    "ANSWER": "The minimum TOEFL-ibt Academic Level score required for the Information Security program for Creative Communication is 90 with 22 in Listening, 22 in Speaking, 22 in Reading, and 24 in Writing."
+  },
+  {
+    "QUESTION": "What is the focus of the IT Security Risk Management course in the Information Security program?",
+    "ANSWER": "The IT Security Risk Management course focuses on understanding the importance and purpose of security risk management, performing Business Impact and Risk Assessments, and managing risks effectively within culturally varied organizations."
+  },
+  {
+    "QUESTION": "How does the Information Security program address the legal and regulatory aspects of risk management?",
+    "ANSWER": "The Information Security program emphasizes the legal, regulatory, and compliance dimensions of risk management, highlighting the necessity of cultivating a risk-aware culture."
+  },
+  {
+    "QUESTION": "What skills will students gain from the Security Architecture and Design course in the Information Security program?",
+    "ANSWER": "Students will gain experience with foundational principles, frameworks, and practices necessary to design and implement secure digital infrastructures."
+  },
+  {
+    "QUESTION": "Which course in the Information Security program covers vulnerability management and ethical hacking?",
+    "ANSWER": "The course covering vulnerability management and ethical hacking is COMP-2056."
+  },
+  {
+    "QUESTION": "What is the purpose of the Security Resiliency Planning course in the Information Security program?",
+    "ANSWER": "The purpose of the Security Resiliency Planning course is to prepare students to develop strategies for maintaining security operations during and after disruptions."
+  },
+  {
+    "QUESTION": "What advanced skills are taught in the Advanced Security Infrastructure course in the Information Security program?",
+    "ANSWER": "The Advanced Security Infrastructure course teaches students to manage and implement complex security infrastructures."
+  },
+  {
+    "QUESTION": "What is the role of the Managing Security Operations course in the Information Security program?",
+    "ANSWER": "The Managing Security Operations course focuses on overseeing and maintaining security operations within an organization."
+  },
+  {
+    "QUESTION": "How does the Information Security program incorporate digital forensics?",
+    "ANSWER": "The program includes the Digital Forensics and Incident Response course, which teaches students to handle and investigate security incidents."
+  },
+  {
+    "QUESTION": "What is the significance of the Security and AI course in the Information Security program?",
+    "ANSWER": "The Security and AI course explores the intersection of artificial intelligence and security, preparing students to leverage AI in security contexts."
+  },
+  {
+    "QUESTION": "How does the Information Security program prepare students for governance, audit, and compliance roles?",
+    "ANSWER": "The program includes the Governance, Audit and Compliance course, which equips students with the knowledge to apply governance and compliance principles in security settings."
+  },
+  {
+    "QUESTION": "What practical experience will students gain in the Industry Project course of the Information Security program?",
+    "ANSWER": "Students will gain practical experience by applying their knowledge in real-world industry projects, enhancing their problem-solving and project management skills."
+  },
+  {
+    "QUESTION": "What is the total credit hours for the first year of the Information Security program?",
+    "ANSWER": "The total credit hours for the first year of the Information Security program is 30."
+  },
+  {
+    "QUESTION": "What is the total credit hours for the second year of the Information Security program?",
+    "ANSWER": "The total credit hours for the second year of the Information Security program is 24."
+  },
+  {
+    "QUESTION": "What is the cost of the Information Security program for domestic students?",
+    "ANSWER": "The cost for domestic students is $10,684 for Year 1 and $9,496 for Year 2."
+  },
+  {
+    "QUESTION": "What is the cost of the Information Security program for international students?",
+    "ANSWER": "The cost for international students is $14,494 for Year 1 and $12,946 for Year 2."
+  },
+  {
+    "QUESTION": "What is the credit hour value of the Security Program Management course in the Information Security program?",
+    "ANSWER": "The Security Program Management course has a credit hour value of 6."
+  },
+  {
+    "QUESTION": "What is the credit hour value of the Industry Project course in the Information Security program?",
+    "ANSWER": "The Industry Project course has a credit hour value of 6."
+  },
+  {
+    "QUESTION": "What is the credit hour value of the Digital Forensics and Incident Response course in the Information Security program?",
+    "ANSWER": "The Digital Forensics and Incident Response course has a credit hour value of 3."
+  },
+  {
+    "QUESTION": "What is the credit hour value of the Security and AI course in the Information Security program?",
+    "ANSWER": "The Security and AI course has a credit hour value of 6."
+  },
+  {
+    "QUESTION": "What is the credit hour value of the Governance, Audit and Compliance course in the Information Security program?",
+    "ANSWER": "The Governance, Audit and Compliance course has a credit hour value of 6."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-2049 course in the Information Security program?",
+    "ANSWER": "The COMP-2049 course focuses on guiding students through the delivery of essential and effective security services using various project management methodologies."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course prepare students for leadership roles?",
+    "ANSWER": "The COMP-2055 course emphasizes skill development in security strategies for mitigating risks and fostering a security-centric organizational culture, preparing students for leadership roles."
+  },
+  {
+    "QUESTION": "What practical skills are taught in the COMP-2056 course of the Information Security program?",
+    "ANSWER": "The COMP-2056 course teaches students advanced vulnerability management and ethical hacking practices, including the use of tools for vulnerability management and penetration testing."
+  },
+  {
+    "QUESTION": "What is the significance of the People, Process, and Technology framework in the Information Security program's COMP-2049 course?",
+    "ANSWER": "The People, Process, and Technology framework is significant in the COMP-2049 course as it is used to manage successful projects in security service delivery."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course integrate security into business strategy?",
+    "ANSWER": "The COMP-2055 course positions students to integrate security as a core business strategy into diverse organizations."
+  },
+  {
+    "QUESTION": "What is the role of vulnerability reporting in the Information Security program's COMP-2056 course?",
+    "ANSWER": "Vulnerability reporting is important in the COMP-2056 course as it involves communicating the results of vulnerability management and ethical hacking practices."
+  },
+  {
+    "QUESTION": "What is the importance of managing a budget in the Information Security program's COMP-2049 course?",
+    "ANSWER": "Managing a budget is a key element in the COMP-2049 course as it is part of operationalizing a security service from a management perspective."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course address security risk mitigation?",
+    "ANSWER": "The COMP-2055 course focuses on developing security strategies for mitigating security risks."
+  },
+  {
+    "QUESTION": "What legal aspects are explored in the Information Security program's COMP-2056 course?",
+    "ANSWER": "The COMP-2056 course explores the legal aspects of hacking as part of its curriculum."
+  },
+  {
+    "QUESTION": "What is the role of security service alignment in the Information Security program's COMP-2049 course?",
+    "ANSWER": "Security service alignment in the COMP-2049 course involves examining how security services meet business needs from inception to end-of-life."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course support technology projects?",
+    "ANSWER": "The COMP-2055 course supports technology projects by building and managing an effective security program."
+  },
+  {
+    "QUESTION": "What philosophical aspects are covered in the Information Security program's COMP-2056 course?",
+    "ANSWER": "The COMP-2056 course covers the philosophical aspects of hacking."
+  },
+  {
+    "QUESTION": "What is the significance of creating metrics in the Information Security program's COMP-2049 course?",
+    "ANSWER": "Creating metrics is significant in the COMP-2049 course as it is part of operationalizing a security service from a management perspective."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course foster an inclusive organizational culture?",
+    "ANSWER": "The COMP-2055 course fosters an inclusive organizational culture by emphasizing security-centric leadership qualities."
+  },
+  {
+    "QUESTION": "What tools are utilized in the Information Security program's COMP-2056 course?",
+    "ANSWER": "The COMP-2056 course utilizes tools for vulnerability management and penetration testing."
+  },
+  {
+    "QUESTION": "What is the role of service operationalization in the Information Security program's COMP-2049 course?",
+    "ANSWER": "Service operationalization in the COMP-2049 course involves exploring important components such as managing a budget and creating metrics."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2055 course prepare students for IT security management roles?",
+    "ANSWER": "The COMP-2055 course prepares students for IT security management roles by providing a comprehensive understanding of security management and leadership qualities."
+  },
+  {
+    "QUESTION": "What is the importance of vulnerability databases in the Information Security program's COMP-2056 course?",
+    "ANSWER": "Vulnerability databases are important in the COMP-2056 course as students learn to describe vulnerabilities found in industry-specific databases."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2049 course address the end-of-life of security services?",
+    "ANSWER": "The COMP-2049 course addresses the end-of-life of security services by examining the alignment of services to meet business needs throughout their lifecycle."
+  },
+  {
+    "QUESTION": "What is the focus of leadership qualities in the Information Security program's COMP-2055 course?",
+    "ANSWER": "The focus of leadership qualities in the COMP-2055 course is on developing security strategies and fostering a security-centric and inclusive organizational culture."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-2057 course in the Information Security program?",
+    "ANSWER": "The COMP-2057 course in the Information Security program focuses on resiliency planning, including incident response, business continuity, disaster recovery, and risk management."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2058 course help students protect organizations?",
+    "ANSWER": "The COMP-2058 course in the Information Security program helps students protect organizations by teaching them security concepts, technologies, and best practices for implementing and maintaining security controls."
+  },
+  {
+    "QUESTION": "What strategic elements are covered in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "The COMP-2059 course in the Information Security program covers crafting and implementing strategic security policies and daily security management."
+  },
+  {
+    "QUESTION": "What collaborative exercises are included in the Information Security program's COMP-2057 course?",
+    "ANSWER": "The COMP-2057 course in the Information Security program includes collaborative exercises that assist with resiliency and contingency planning."
+  },
+  {
+    "QUESTION": "What is the purpose of testing security solutions in the COMP-2058 course of the Information Security program?",
+    "ANSWER": "The purpose of testing security solutions in the COMP-2058 course of the Information Security program is to ensure that the security technology is ready for deployment, minimizing the risk of security breaches."
+  },
+  {
+    "QUESTION": "What human resource management elements are included in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "The COMP-2059 course in the Information Security program includes elements of human resource management such as equity, diversity, and inclusion."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2057 course help minimize the impact on business operations?",
+    "ANSWER": "The COMP-2057 course in the Information Security program helps minimize the impact on business operations by ensuring business continuity and recovering from disasters."
+  },
+  {
+    "QUESTION": "What is the role of defense in depth strategies in the COMP-2058 course of the Information Security program?",
+    "ANSWER": "In the COMP-2058 course of the Information Security program, defense in depth strategies are used to protect the integrity, confidentiality, and availability of IT systems."
+  },
+  {
+    "QUESTION": "What industry trends are assessed in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "The COMP-2059 course in the Information Security program assesses industry trends and measures service effectiveness using capability maturity models."
+  },
+  {
+    "QUESTION": "What aspects of resiliency planning are explored in the Information Security program's COMP-2057 course?",
+    "ANSWER": "The COMP-2057 course in the Information Security program explores aspects of resiliency planning such as incident response, business continuity, disaster recovery, and risk management."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2058 course enhance the overall security posture of organizations?",
+    "ANSWER": "The COMP-2058 course in the Information Security program enhances the overall security posture of organizations by teaching students to implement and maintain security controls and test security solutions."
+  },
+  {
+    "QUESTION": "What vendor management aspects are covered in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "The COMP-2059 course in the Information Security program covers vendor management as part of managing security operations."
+  },
+  {
+    "QUESTION": "What is the significance of business continuity in the Information Security program's COMP-2057 course?",
+    "ANSWER": "In the COMP-2057 course of the Information Security program, business continuity is significant for ensuring resilience and minimizing the impact on business operations."
+  },
+  {
+    "QUESTION": "What is the focus of security controls in the COMP-2058 course of the Information Security program?",
+    "ANSWER": "The focus of security controls in the COMP-2058 course of the Information Security program is to protect an organization from cybersecurity threats and attacks."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2059 course prepare students for managing security operations?",
+    "ANSWER": "The COMP-2059 course in the Information Security program prepares students for managing security operations by blending theoretical and practical concepts."
+  },
+  {
+    "QUESTION": "What is the role of risk management in the Information Security program's COMP-2057 course?",
+    "ANSWER": "In the COMP-2057 course of the Information Security program, risk management is a key aspect of resiliency planning to manage incidents and solve problems."
+  },
+  {
+    "QUESTION": "What is the importance of threat intelligence systems in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "In the COMP-2059 course of the Information Security program, threat intelligence systems are important for working with security operations and managing threats."
+  },
+  {
+    "QUESTION": "How does the Information Security program's COMP-2058 course address the integrity of IT systems?",
+    "ANSWER": "The COMP-2058 course in the Information Security program addresses the integrity of IT systems by establishing defense in depth strategies."
+  },
+  {
+    "QUESTION": "What is the significance of disaster recovery in the Information Security program's COMP-2057 course?",
+    "ANSWER": "In the COMP-2057 course of the Information Security program, disaster recovery is significant for recovering from disasters and ensuring business continuity."
+  },
+  {
+    "QUESTION": "What capability maturity models are used for in the COMP-2059 course of the Information Security program?",
+    "ANSWER": "In the COMP-2059 course of the Information Security program, capability maturity models are used to measure service effectiveness and assess industry trends."
+  },
+  {
+    "QUESTION": "What skills will students develop in the COMP-2060 course within the Information Security program?",
+    "ANSWER": "Students will develop skills to detect, respond, manage, and recover from security incidents, as well as engage in investigative scenarios using forensic tools and processes."
+  },
+  {
+    "QUESTION": "How does the COMP-2061 course in the Information Security program integrate AI with security?",
+    "ANSWER": "The COMP-2061 course integrates AI with security by teaching students AI-driven security strategies, machine learning models for threat detection, and the application of AI technologies to enhance security postures."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-2067 course in the Information Security program?",
+    "ANSWER": "The focus of the COMP-2067 course is on governance frameworks, IT risk, legal requirements, and audit and compliance concepts to align IT strategy with business objectives."
+  },
+  {
+    "QUESTION": "What practical experiences will students gain in the COMP-2060 course of the Information Security program?",
+    "ANSWER": "Students will gain practical experience in maintaining chain of custody, gathering evidence, and participating in post-incident reviews."
+  },
+  {
+    "QUESTION": "What ethical considerations are discussed in the COMP-2061 course of the Information Security program?",
+    "ANSWER": "The COMP-2061 course discusses ethical considerations and bias in AI deployment within the context of information security."
+  },
+  {
+    "QUESTION": "How does the Information Security program prepare students for security audits?",
+    "ANSWER": "The program prepares students for security audits by teaching them audit and compliance concepts, including preparing for security audits and navigating industry-specific regulation requirements."
+  },
+  {
+    "QUESTION": "What is the role of AI in threat detection as taught in the Information Security program?",
+    "ANSWER": "AI plays a role in threat detection by using machine learning models to identify and respond to security threats, as taught in the COMP-2061 course."
+  },
+  {
+    "QUESTION": "What is the importance of chain of custody in the Information Security program?",
+    "ANSWER": "Chain of custody is important for maintaining the integrity of evidence during forensic investigations, as emphasized in the COMP-2060 course."
+  },
+  {
+    "QUESTION": "How does the Information Security program address the alignment of IT strategy with business objectives?",
+    "ANSWER": "The program addresses this alignment by teaching students to develop a model for managing Governance, Risk, and Compliance, as covered in the COMP-2067 course."
+  },
+  {
+    "QUESTION": "What are Key Goal Indicators (KGI's) in the context of the Information Security program?",
+    "ANSWER": "Key Goal Indicators (KGI's) are metrics used to measure the achievement of business objectives, as introduced in the COMP-2067 course."
+  },
+  {
+    "QUESTION": "What investigative scenarios are included in the Information Security program?",
+    "ANSWER": "Investigative scenarios include using forensic tools and processes to gather evidence and maintain chain of custody, as part of the COMP-2060 course."
+  },
+  {
+    "QUESTION": "How does the Information Security program incorporate post-incident reviews?",
+    "ANSWER": "The program incorporates post-incident reviews by engaging students in evaluating and learning from security incidents, as part of the COMP-2060 course."
+  },
+  {
+    "QUESTION": "What is the significance of AI-driven security strategies in the Information Security program?",
+    "ANSWER": "AI-driven security strategies are significant for enhancing security defenses and mitigating risks, as taught in the COMP-2061 course."
+  },
+  {
+    "QUESTION": "How does the Information Security program address legal requirements in IT risk management?",
+    "ANSWER": "The program addresses legal requirements by introducing students to IT risk and compliance concepts, as part of the COMP-2067 course."
+  },
+  {
+    "QUESTION": "What role do forensic tools play in the Information Security program?",
+    "ANSWER": "Forensic tools are used to gather evidence and maintain chain of custody during security incident investigations, as taught in the COMP-2060 course."
+  },
+  {
+    "QUESTION": "How does the Information Security program prepare students for industry-specific regulations?",
+    "ANSWER": "The program prepares students by teaching them to navigate industry-specific regulation requirements, as part of the COMP-2067 course."
+  },
+  {
+    "QUESTION": "What is the relationship between AI and information security in the Information Security program?",
+    "ANSWER": "The relationship is explored by teaching students how AI technologies can bolster security defenses and automate security tasks, as covered in the COMP-2061 course."
+  },
+  {
+    "QUESTION": "What is the purpose of developing effective communications in the Information Security program?",
+    "ANSWER": "The purpose is to ensure students can effectively communicate security strategies and incident responses, as emphasized in the COMP-2060 course."
+  },
+  {
+    "QUESTION": "How does the Information Security program address bias in AI deployment?",
+    "ANSWER": "The program addresses bias by discussing ethical considerations in AI deployment within the COMP-2061 course."
+  },
+  {
+    "QUESTION": "What is the significance of governance frameworks in the Information Security program?",
+    "ANSWER": "Governance frameworks are significant for integrating IT strategy with business objectives and managing risk, as taught in the COMP-2067 course."
+  },
+  {
+    "QUESTION": "What is the main objective of the INDP-3004 Industry Project in the Information Security program?",
+    "ANSWER": "The main objective of the INDP-3004 Industry Project in the Information Security program is for students to apply their knowledge and skills in information security to a real-world application by identifying a security risk, proposing a solution, and evaluating its impact."
+  },
+  {
+    "QUESTION": "What are the prerequisites for enrolling in the INDP-3004 Industry Project course in the Information Security program?",
+    "ANSWER": "The prerequisites for enrolling in the INDP-3004 Industry Project course in the Information Security program are COMP-2046, COMP-2048, COMP-2049, COMP-2055, COMP-2056, COMP-2057, COMP-2058, COMP-2059, and COMP-2060."
+  },
+  {
+    "QUESTION": "How many hours is the integrated WIL component in Term 4 of the Information Security program?",
+    "ANSWER": "The integrated WIL component in Term 4 of the Information Security program is 90 hours."
+  },
+  {
+    "QUESTION": "What options do students have for their industry project in the Information Security program?",
+    "ANSWER": "Students in the Information Security program can choose to work with their current employer, another employer, or a project within the Applied Computer Education (ACE) Project Space."
+  },
+  {
+    "QUESTION": "What type of device is required for students in the Information Security program?",
+    "ANSWER": "Students in the Information Security program are required to provide their own laptop that meets the Standard Type A device under the new College standards."
+  },
+  {
+    "QUESTION": "Which application is used to host online classes in the Information Security program?",
+    "ANSWER": "The Microsoft Teams application is used to host online classes in the Information Security program."
+  },
+  {
+    "QUESTION": "Where will all curriculum materials be stored and utilized for the Information Security program?",
+    "ANSWER": "All curriculum materials for the Information Security program will be stored and utilized in Learn."
+  },
+  {
+    "QUESTION": "What is the purpose of the 'lesson learned' process in the INDP-3004 Industry Project of the Information Security program?",
+    "ANSWER": "The purpose of the 'lesson learned' process in the INDP-3004 Industry Project of the Information Security program is for students to critically evaluate the impact of the security solution, reflecting on areas of success and identifying opportunities for improvement."
+  },
+  {
+    "QUESTION": "What is the role of the industry partner in the INDP-3004 Industry Project of the Information Security program?",
+    "ANSWER": "The role of the industry partner in the INDP-3004 Industry Project of the Information Security program is to work closely with students as they identify a security risk and develop a mitigation plan."
+  },
+  {
+    "QUESTION": "What is the expected outcome for students after completing the INDP-3004 Industry Project in the Information Security program?",
+    "ANSWER": "The expected outcome for students after completing the INDP-3004 Industry Project in the Information Security program is to have successfully implemented and tested a proposed security solution and evaluated its impact."
+  },
+  {
+    "QUESTION": "What is the significance of the interdisciplinary team in the ACE Project Space for the Information Security program?",
+    "ANSWER": "The significance of the interdisciplinary team in the ACE Project Space for the Information Security program is to provide students with the opportunity to work with local entrepreneurs and students from other ACE programs."
+  },
+  {
+    "QUESTION": "What is the preferred method for accessing Microsoft Teams in the Information Security program?",
+    "ANSWER": "The preferred method for accessing Microsoft Teams in the Information Security program is through the application, although a web version is available."
+  },
+  {
+    "QUESTION": "What is the focus of the security solution proposed by students in the INDP-3004 Industry Project of the Information Security program?",
+    "ANSWER": "The focus of the security solution proposed by students in the INDP-3004 Industry Project of the Information Security program is to mitigate an identified security risk."
+  },
+  {
+    "QUESTION": "How do students in the Information Security program demonstrate their understanding of the course material in the INDP-3004 Industry Project?",
+    "ANSWER": "Students in the Information Security program demonstrate their understanding of the course material in the INDP-3004 Industry Project by analyzing, planning, researching, implementing, and testing a security solution."
+  },
+  {
+    "QUESTION": "What is the role of the instructor in the INDP-3004 Industry Project of the Information Security program?",
+    "ANSWER": "The role of the instructor in the INDP-3004 Industry Project of the Information Security program is to work closely with students and the industry partner as they develop a security solution."
+  },
+  {
+    "QUESTION": "What is the importance of high-speed internet for students in the Information Security program?",
+    "ANSWER": "High-speed internet is important for students in the Information Security program to ensure they can effectively participate in online classes and access course materials."
+  },
+  {
+    "QUESTION": "What is the purpose of the CO-OP/Practicum Information Term 4 in the Information Security program?",
+    "ANSWER": "The purpose of the CO-OP/Practicum Information Term 4 in the Information Security program is to provide students with a 90-hour integrated WIL component to gain practical experience."
+  },
+  {
+    "QUESTION": "What is the benefit of working with local entrepreneurs in the ACE Project Space for students in the Information Security program?",
+    "ANSWER": "The benefit of working with local entrepreneurs in the ACE Project Space for students in the Information Security program is to gain real-world experience and collaborate with students from other programs."
+  },
+  {
+    "QUESTION": "What is the expected deliverable from students at the end of the INDP-3004 Industry Project in the Information Security program?",
+    "ANSWER": "The expected deliverable from students at the end of the INDP-3004 Industry Project in the Information Security program is a presentation of their proposed security solution to stakeholders."
+  },
+  {
+    "QUESTION": "What is the significance of the 'lesson learned' process in the Information Security program?",
+    "ANSWER": "The significance of the 'lesson learned' process in the Information Security program is to allow students to reflect on their project, identify successes, and find opportunities for improvement."
+  },
+  {
+    "QUESTION": "What is the minimum number of credit units required to graduate from the Information Security program?",
+    "ANSWER": "Students must complete a minimum of 62 Credit Units to graduate from the Information Security program."
+  },
+  {
+    "QUESTION": "How many hours of classroom learning are required in the Information Security program?",
+    "ANSWER": "The Information Security program requires 990 hours of classroom learning."
+  },
+  {
+    "QUESTION": "What is the duration of the work integrated learning component in the Information Security program?",
+    "ANSWER": "The work integrated learning component in the Information Security program is 90 hours."
+  },
+  {
+    "QUESTION": "What is the maximum time allowed to complete the Information Security program?",
+    "ANSWER": "Students must complete the Information Security program within four years."
+  },
+  {
+    "QUESTION": "What is the purpose of the Recognition of Prior Learning in the Information Security program?",
+    "ANSWER": "The Recognition of Prior Learning process documents and compares an individual's prior learning to the learning outcomes in the Information Security program."
+  },
+  {
+    "QUESTION": "What skills should graduates of the Information Security program demonstrate upon completion?",
+    "ANSWER": "Graduates should demonstrate skills in collaboration, business resilience, security service delivery, security initiative management, secure architecture development, and communication."
+  },
+  {
+    "QUESTION": "How does the Information Security program address the impact of artificial intelligence on cybersecurity?",
+    "ANSWER": "The Information Security program examines how artificial intelligence impacts cybersecurity in both positive and negative ways."
+  },
+  {
+    "QUESTION": "What is the role of academic advising in the Information Security program?",
+    "ANSWER": "Academic advising provides information about the Information Security program, explains admission requirements, and helps students select the right program to meet their goals."
+  },
+  {
+    "QUESTION": "What is the typical duration for full-time students to complete the Information Security program with a study break?",
+    "ANSWER": "Typical full-time students who take a four-month study break each year will complete the Information Security program in 20 months."
+  },
+  {
+    "QUESTION": "What is the focus of the security architecture and design learning outcome in the Information Security program?",
+    "ANSWER": "The focus is on developing secure architecture and design for IT infrastructure that adheres to industry standards and regulatory requirements."
+  },
+  {
+    "QUESTION": "How does the Information Security program prepare students to manage security initiatives?",
+    "ANSWER": "The program prepares students to manage security initiatives effectively while fostering a security-centric organizational work culture."
+  },
+  {
+    "QUESTION": "What is the importance of governance, risk management, and compliance in the Information Security program?",
+    "ANSWER": "Governance, risk management, and compliance principles are applied to maintain security frameworks within organizations."
+  },
+  {
+    "QUESTION": "How does the Information Security program address cybersecurity threats?",
+    "ANSWER": "The program teaches students to mitigate cybersecurity threats using advanced methods and solutions to protect organizations."
+  },
+  {
+    "QUESTION": "What communication skills are emphasized in the Information Security program?",
+    "ANSWER": "The program emphasizes communication skills necessary for communicating with peers, stakeholders, business units, and the general public regarding security risk mitigation strategies."
+  },
+  {
+    "QUESTION": "What is the significance of forensic analysis in the Information Security program?",
+    "ANSWER": "Forensic analysis is conducted to identify the root cause and trace the timeline of security incidents using appropriate tools and techniques."
+  },
+  {
+    "QUESTION": "How does the Information Security program align security strategies with organizational goals?",
+    "ANSWER": "The program teaches students to apply security measures and technologies to meet evolving threats and business needs, aligning security strategies with organizational goals."
+  },
+  {
+    "QUESTION": "What is the role of collaboration in the Information Security program?",
+    "ANSWER": "Collaboration is demonstrated through networking with professionals in the field and working with stakeholders for integrated security decision-making."
+  },
+  {
+    "QUESTION": "What is the impact of the Information Security program on business resilience?",
+    "ANSWER": "The program creates strategies for business resilience to protect business assets and data."
+  },
+  {
+    "QUESTION": "How does the Information Security program ensure adaptability in security services?",
+    "ANSWER": "The program ensures adaptability by delivering secure security services that align with evolving organizational needs and industry trends."
+  },
+  {
+    "QUESTION": "What is the importance of feedback processes in the Information Security program?",
+    "ANSWER": "Feedback processes are important for demonstrating interpersonal skills and insights such as collaboration and facilitation."
+  },
+  {
+    "QUESTION": "What is the role of an Indigenous Admissions Advisor in the Information Security program?",
+    "ANSWER": "An Indigenous Admissions Advisor can be contacted by Indigenous students for guidance related to the Information Security program."
+  },
+  {
+    "QUESTION": "How can international students get assistance with the Information Security program?",
+    "ANSWER": "International students can contact International Education for assistance with the Information Security program."
+  },
+  {
+    "QUESTION": "What are the possible class timings for the Information Security program?",
+    "ANSWER": "Classes for the Information Security program may be scheduled between 8:00 a.m. and 10:00 p.m."
+  },
+  {
+    "QUESTION": "Can the Information Security program be modified or canceled without notice?",
+    "ANSWER": "Yes, the College reserves the right to modify or cancel the Information Security program without notice or prejudice."
+  },
+  {
+    "QUESTION": "Where can students find the most current version of the Information Security program information?",
+    "ANSWER": "The most current version of the Information Security program information is available on the Red River College Polytechnic website."
+  },
+  {
+    "QUESTION": "What should students do if they need more information about the Information Security program?",
+    "ANSWER": "Students should visit academic advising for more information about the Information Security program."
+  },
+  {
+    "QUESTION": "Is there a possibility of fee changes for the Information Security program?",
+    "ANSWER": "Yes, fees for the Information Security program may change without notice."
+  },
+  {
+    "QUESTION": "What is the significance of the date 2025-06-02 in relation to the Information Security program?",
+    "ANSWER": "The page containing information about the Information Security program was produced on 2025-06-02."
+  },
+  {
+    "QUESTION": "Who should Indigenous students contact for admissions advice regarding the Information Security program?",
+    "ANSWER": "Indigenous students should contact an Indigenous Admissions Advisor for admissions advice regarding the Information Security program."
+  },
+  {
+    "QUESTION": "What is the purpose of contacting International Education for the Information Security program?",
+    "ANSWER": "International Education can provide assistance and guidance to international students regarding the Information Security program."
+  },
+  {
+    "QUESTION": "What is the policy on class scheduling for the Information Security program?",
+    "ANSWER": "Classes for the Information Security program may be scheduled at any time between 8:00 a.m. and 10:00 p.m."
+  },
+  {
+    "QUESTION": "Can the Information Security program be subject to changes without prior notice?",
+    "ANSWER": "Yes, the Information Security program can be subject to changes without prior notice."
+  },
+  {
+    "QUESTION": "Where should students look for updates on the Information Security program?",
+    "ANSWER": "Students should look for updates on the Information Security program on the Red River College Polytechnic website."
+  },
+  {
+    "QUESTION": "What should students do if they have questions about the Information Security program?",
+    "ANSWER": "Students should visit academic advising if they have questions about the Information Security program."
+  },
+  {
+    "QUESTION": "Are there any guarantees that the Information Security program fees will remain the same?",
+    "ANSWER": "No, there are no guarantees as the Information Security program fees may change without notice."
+  },
+  {
+    "QUESTION": "What is the relevance of the production date of the page for the Information Security program?",
+    "ANSWER": "The production date of the page, 2025-06-02, indicates when the information about the Information Security program was last updated."
+  },
+  {
+    "QUESTION": "Who can Indigenous students reach out to for help with the Information Security program?",
+    "ANSWER": "Indigenous students can reach out to an Indigenous Admissions Advisor for help with the Information Security program."
+  },
+  {
+    "QUESTION": "What assistance is available for international students in the Information Security program?",
+    "ANSWER": "International students can receive assistance from International Education regarding the Information Security program."
+  },
+  {
+    "QUESTION": "What are the possible hours for classes in the Information Security program?",
+    "ANSWER": "Classes in the Information Security program can be scheduled between 8:00 a.m. and 10:00 p.m."
+  },
+  {
+    "QUESTION": "Is it possible for the Information Security program to be altered without prior notification?",
+    "ANSWER": "Yes, it is possible for the Information Security program to be altered without prior notification."
+  }
+]

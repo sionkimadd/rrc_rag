@@ -1,0 +1,126 @@
+ADD_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "Where is the campus located for Application Development and Delivery program?",
+    "ANSWER": "Application Development and Delivery program is held at the Exchange District Campus in Winnipeg, Manitoba."
+}},
+{{
+    "QUESTION": "What is the focus of COMP-1334 Design Thinking and Innovation in the Application Development and Delivery program?",
+    "ANSWER": "In the Application Development and Delivery program, COMP-1334 teaches students how to use iterative design thinking to empathize with users, redefine problems, develop and test prototypes, and pitch innovative solutions."
+}},
+{{
+    "QUESTION": "Who can apply under Mature Student admission requirements for Application Development and Delivery program?",
+    "ANSWER": "If you are 19 years of age or older and have been out of high school for a minimum of one year at time of application, and you do not meet the regular admission requirements, you may apply under the Mature Student admission requirements."
+}}
+```
+
+DSML_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "Where is the campus located for Data Science and Machine Learning program?",
+    "ANSWER": "Data Science and Machine Learning program is held at the Exchange District Campus in Winnipeg, Manitoba."
+}},
+{{
+    "QUESTION": "What programming concepts are introduced in the Data Science and Machine Learning program?",
+    "ANSWER": "The Introduction to Programming Logic (COMP-1296) course covers Boolean operations, assignment, sequencing, iteration, decision-making, modular abstraction, arrays, and strings as foundational programming concepts."
+}},
+{{
+    "QUESTION": "Students must complete 14.5 full-course equivalents and one Work Integrated Learning term (87 credit hours), maintain a minimum GPA of 2.0, pass all compulsory courses with at least 50%, and finish within six years."
+}}
+```
+
+FULLSTACK_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What is the cost of the Full Stack Web Development program for international students?",
+    "ANSWER": "Estimated fees for international students are $16,943 for Year 1 and $14,039 for Year 2. These estimates may change."
+}},
+{{
+    "QUESTION": "Is work-integrated learning included in the Full Stack Web Development program?",
+    "ANSWER": "Yes, the final term includes work-integrated learning in the form of either a Co-operative Work Experience (WRKE-2011) or an Industry Project (PROJ-2013)."
+}},
+{{
+    "QUESTION": "What topics are covered in the course Web Development 1 (WEBD-1007) in the Full Stack Web Development program?",
+    "ANSWER": "In Web Development 1 (WEBD-1007), students learn HTML5, CSS, and JavaScript (ES6), along with JSON file manipulation and website deployment. The course concludes with a project where students build and publish a website."
+}}
+```
+
+INFOSEC_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What is the cost of the Information Security program for international students?",
+    "ANSWER": "Estimated fees for international students are $14,494 for Year 1 and $12,946 for Year 2. These estimates may change."
+}},
+{{
+    "QUESTION": "What are the learning outcomes of the Information Security program?",
+    "ANSWER": "Graduates of the Information Security program will be able to manage security risks, design secure infrastructures, apply governance and compliance principles, mitigate cybersecurity threats, and communicate security strategies effectively."
+}},
+{{
+    "QUESTION": "What type of courses will students take in the first term of Information Security program?",
+    "ANSWER": "First-term courses include IT Security Risk Management (COMP-2046), Security Architecture and Design (COMP-2048), and Security Service Delivery (COMM-2049)."
+}}
+```
+
+CYBER_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "Where is the Cybersecurity program offered?",
+    "ANSWER": "The Cybersecurity program is offered at the Exchange District Campus (formerly Princess Street Campus) in Winnipeg."
+}},
+{{
+    "QUESTION": "What topics are covered in the IT Foundations course in the Cybersecurity program?",
+    "ANSWER": "In the Cybersecurity program, the course IT Foundations (COMP-1311) covers IT department structures, computer hardware, operating systems, networks, and foundational software development and database concepts."
+}},
+{{
+    "QUESTION": "What type of courses will students take in the first term of Cybersecurity program?",
+    "ANSWER": "First-term courses include Customer Experience (COMP-1312), Introduction to Security Operations (COMP-1285), IT Foundations (COMP-1311), Networking for Information Security (COMP-1284), and Communication Strategies (COMM-1173)."
+}}
+```
+
+ITOPS_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What is the duration of the IT Operations program?",
+    "ANSWER": "The IT Operations diploma program is a two-year (20-month) program."
+}},
+{{
+    "QUESTION": "What are the typical class hours for the IT Operations program?",
+    "ANSWER": "Most courses take place from 8 am to 6 pm, Monday to Friday."
+}},
+{{
+    "QUESTION": "What type of courses will students take in the first term of IT Operations program?",
+    "ANSWER": "First-term courses include IT Service Management (COMP-1309), IT Architecture and Design (COMP-1310), IT Foundations (COMP-1311), Customer Experience (COMP-1312), and Communication Strategies (COMM-1173)."
+}}
+```
+
+NETSYS_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What are the estimated tuition fees for the Network and Services Technician program for domestic students?",
+    "ANSWER": "The estimated tuition fees for domestic students in Year 1 are $6,151.00."
+}},
+{{
+    "QUESTION": "Are there safety and workplace compliance courses in the Network and Services Technician program?",
+    "ANSWER": "Yes, WHMIS (SAFE-1028) and General Safety Training (SEMR-9209) provide important workplace safety knowledge related to hazardous materials and general safety practices."
+}},
+{{
+    "QUESTION": "What wireless networking skills are included in the Network and Services Technician program?",
+    "ANSWER": "Wireless LAN Fundamentals (DCOM-1007) covers wireless LAN design, implementation, security, troubleshooting, and emerging wireless technologies with hands-on labs."
+}}
+```
+
+rrc_viewbook_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "Where are the Student Service Centres located at Red River College?",
+    "ANSWER": "The Student Service Centres are located at the Notre Dame and Exchange District Campuses of Red River College."
+}},
+{{
+    "QUESTION": "What services does RRC provide for student mental health and accessibility?",
+    "ANSWER": "RRC offers counselling for personal, academic, and financial issues, and provides accessibility services like interpreting, note-taking, and adaptive technology for students with diagnosed disabilities."
+}},
+{{
+    "QUESTION": "Where can students access library resources at RRC?",
+    "ANSWER": "Libraries are located at both Notre Dame and Exchange District Campuses, offering books, databases, media services, and reciprocal borrowing from U of M and U of W."
+}}
+```

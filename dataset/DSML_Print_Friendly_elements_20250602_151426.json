@@ -1,0 +1,962 @@
+[
+  {
+    "QUESTION": "What is the duration of the Data Science and Machine Learning program?",
+    "ANSWER": "The Data Science and Machine Learning program is a two-year diploma program."
+  },
+  {
+    "QUESTION": "When are the entry dates for the Data Science and Machine Learning program?",
+    "ANSWER": "The entry dates for the Data Science and Machine Learning program are in August and January."
+  },
+  {
+    "QUESTION": "Where is the Data Science and Machine Learning program held?",
+    "ANSWER": "The Data Science and Machine Learning program is held at the Exchange District Campus in Winnipeg."
+  },
+  {
+    "QUESTION": "What is a mandatory component of the Data Science and Machine Learning program?",
+    "ANSWER": "A mandatory component of the Data Science and Machine Learning program is the Work Integrated Learning term, which includes Co-op work experience or an industry project."
+  },
+  {
+    "QUESTION": "What are the class timings for the Data Science and Machine Learning program?",
+    "ANSWER": "Classes for the Data Science and Machine Learning program take place between 8 am and 6 pm."
+  },
+  {
+    "QUESTION": "On which days are classes held on campus for the Data Science and Machine Learning program?",
+    "ANSWER": "Classes are held on campus on Mondays, Tuesdays, and Wednesday mornings for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "On which days are classes held online for the Data Science and Machine Learning program?",
+    "ANSWER": "Classes are held online on Wednesday afternoons, Thursdays, and Fridays for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What equipment must students provide for the Data Science and Machine Learning program?",
+    "ANSWER": "Students must provide their own laptop computer that meets the requirements for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What fundamental concepts are studied in the Data Science and Machine Learning program?",
+    "ANSWER": "Students study the fundamental concepts in mathematics and statistics in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What skills will students gain in the Data Science and Machine Learning program?",
+    "ANSWER": "Students will gain skills to collect/organize data and use analytics to inform decisions in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What will students learn to implement in the Data Science and Machine Learning program?",
+    "ANSWER": "Students will learn to implement current machine learning algorithms to address common needs in industry in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What communication skills are developed in the Data Science and Machine Learning program?",
+    "ANSWER": "Students develop the skills to effectively communicate technical ideas with other developers as well as those without technical knowledge in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What type of real-world experience do students gain in the Data Science and Machine Learning program?",
+    "ANSWER": "Students experience working with industry to develop code for real applications in data science and machine learning in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the goal for graduates of the Data Science and Machine Learning program?",
+    "ANSWER": "The goal for graduates is to determine appropriate machine learning techniques based on the problem domain data and identified goals in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What sectors are driving the demand for skills taught in the Data Science and Machine Learning program?",
+    "ANSWER": "Sectors such as robotics and automation, healthcare, finance, and government are driving the demand for skills taught in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the focus of the Data Science and Machine Learning program regarding algorithms?",
+    "ANSWER": "The focus is on implementing current machine learning algorithms to address common needs in industry in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the significance of the Work Integrated Learning term in the Data Science and Machine Learning program?",
+    "ANSWER": "The Work Integrated Learning term provides students with Co-op work experience or an industry project, which is a mandatory part of the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the importance of communication skills in the Data Science and Machine Learning program?",
+    "ANSWER": "Communication skills are important for effectively conveying technical ideas to both developers and non-technical audiences in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of mathematics and statistics in the Data Science and Machine Learning program?",
+    "ANSWER": "Mathematics and statistics provide the fundamental concepts that make data science and machine learning technologies possible in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the requirement for international applicants interested in the Data Science and Machine Learning program?",
+    "ANSWER": "International applicants should visit Academic Program, Dates and Fees for a listing of programs for international students, current availability, and online application instructions for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the primary goal of the Data Science and Machine Learning program?",
+    "ANSWER": "The primary goal of the Data Science and Machine Learning program is to train students to establish predictive relationships between data inputs and desired outputs using industry-standard machine learning models."
+  },
+  {
+    "QUESTION": "What skills are emphasized in the Data Science and Machine Learning program for effective communication?",
+    "ANSWER": "The Data Science and Machine Learning program emphasizes active listening, written, verbal, and non-verbal communication skills, as well as reading technical literature and documenting processes."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program ensure data management compliance?",
+    "ANSWER": "The Data Science and Machine Learning program ensures data management compliance by teaching students to manage data in accordance with regulatory standards and ethical behavior."
+  },
+  {
+    "QUESTION": "What is required for admission into the Data Science and Machine Learning program regarding academic history?",
+    "ANSWER": "For admission into the Data Science and Machine Learning program, the college requires transcripts verifying the complete academic history, including any public or private high school, college, university, or technical institute attended."
+  },
+  {
+    "QUESTION": "What is the role of professionalism in the Data Science and Machine Learning program?",
+    "ANSWER": "Professionalism in the Data Science and Machine Learning program involves demonstrating personal integrity and accountability, maintaining professional and ethical standards, and obtaining necessary accreditation."
+  },
+  {
+    "QUESTION": "What is the importance of data preparation in the Data Science and Machine Learning program?",
+    "ANSWER": "Data preparation is important in the Data Science and Machine Learning program as it involves revising and improving data quality to interpret and draw conclusions from statistical analysis of visualized and contextualized data."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program approach software product verification?",
+    "ANSWER": "The Data Science and Machine Learning program approaches software product verification by ensuring that the product meets specifications and fulfills its intended purpose."
+  },
+  {
+    "QUESTION": "What research techniques are taught in the Data Science and Machine Learning program?",
+    "ANSWER": "The Data Science and Machine Learning program teaches research techniques such as completing a literature review, collaborating with others, and using other methods to acquire data and domain knowledge."
+  },
+  {
+    "QUESTION": "What is the significance of machine learning models in the Data Science and Machine Learning program?",
+    "ANSWER": "Machine learning models are significant in the Data Science and Machine Learning program as they are used to establish predictive relationships that remain effective and accurate with new unseen data."
+  },
+  {
+    "QUESTION": "What ethical considerations are included in the Data Science and Machine Learning program?",
+    "ANSWER": "The Data Science and Machine Learning program includes ethical considerations by teaching students to manage data ethically and comply with regulatory standards."
+  },
+  {
+    "QUESTION": "What is the role of collaboration in the Data Science and Machine Learning program?",
+    "ANSWER": "Collaboration in the Data Science and Machine Learning program involves working with others to acquire data and domain knowledge, which is essential for research and project success."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program ensure continuous learning?",
+    "ANSWER": "The Data Science and Machine Learning program ensures continuous learning by encouraging students to learn from regulatory bodies and maintain ethical behavior."
+  },
+  {
+    "QUESTION": "What is the importance of domain knowledge in the Data Science and Machine Learning program?",
+    "ANSWER": "Domain knowledge is important in the Data Science and Machine Learning program as it helps in summarizing existing approaches and techniques in a specific area."
+  },
+  {
+    "QUESTION": "What is the focus of software development in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of software development in the Data Science and Machine Learning program is to create a software product that uses machine learning and development skills appropriate to identified goals."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program address data quality improvement?",
+    "ANSWER": "The Data Science and Machine Learning program addresses data quality improvement by preparing data for use in machine learning models through revision and enhancement."
+  },
+  {
+    "QUESTION": "What is the significance of active listening in the Data Science and Machine Learning program?",
+    "ANSWER": "Active listening is significant in the Data Science and Machine Learning program as it is a key component of effective communication in all interactions."
+  },
+  {
+    "QUESTION": "What is the role of technical literature in the Data Science and Machine Learning program?",
+    "ANSWER": "Technical literature plays a role in the Data Science and Machine Learning program by providing students with the knowledge needed to read and document processes effectively."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program ensure the effectiveness of machine learning models?",
+    "ANSWER": "The Data Science and Machine Learning program ensures the effectiveness of machine learning models by training students to establish predictive relationships that remain accurate with new data."
+  },
+  {
+    "QUESTION": "What is the importance of personal integrity in the Data Science and Machine Learning program?",
+    "ANSWER": "Personal integrity is important in the Data Science and Machine Learning program as it involves maintaining professional and ethical standards in all roles and responsibilities."
+  },
+  {
+    "QUESTION": "What is the significance of regulatory standards in the Data Science and Machine Learning program?",
+    "ANSWER": "Regulatory standards are significant in the Data Science and Machine Learning program as they guide students in managing data ethically and in compliance with regulations."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting official final grades for fall enrolment in the Data Science and Machine Learning program?",
+    "ANSWER": "For fall enrolment in the Data Science and Machine Learning program, official final grades indicating successful completion must be submitted by July 15."
+  },
+  {
+    "QUESTION": "What should internationally educated applicants do for credential assessment in the Data Science and Machine Learning program?",
+    "ANSWER": "Internationally educated applicants should visit www.rrc.ca/credentials for credential assessment information for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What are the regular admission requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The regular admission requirements for the Data Science and Machine Learning program include proof of graduation from or enrolment in Grade 12, including one credit in Grade 12 English (40S) and Grade 12 Math (40S), excluding Accounting 40S."
+  },
+  {
+    "QUESTION": "What is the submission deadline for required documentation if applying within 6 weeks of the program start date for the Data Science and Machine Learning program?",
+    "ANSWER": "If applying within 6 weeks of the program start date for the Data Science and Machine Learning program, admission requirements are due within 5 days of applying."
+  },
+  {
+    "QUESTION": "What should applicants do if they need assistance with their Future Student Account for the Data Science and Machine Learning program?",
+    "ANSWER": "Applicants who need assistance with their Future Student Account for the Data Science and Machine Learning program should contact the Student Service Centre at 204-632-2327."
+  },
+  {
+    "QUESTION": "What is the process for submitting documents for the Data Science and Machine Learning program?",
+    "ANSWER": "To submit documents for the Data Science and Machine Learning program, applicants should scan their documents, save the file, and upload it through their Future Student Account at apply.rrc.ca."
+  },
+  {
+    "QUESTION": "What are the English Language Requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The English Language Requirements for the Data Science and Machine Learning program include successfully completing 3 years of full-time high school education in Canada, the United States, or an ELR exempt country where English was the language of instruction."
+  },
+  {
+    "QUESTION": "What should applicants do if they have completed all their education in an ELR exempt country but did not graduate high school for the Data Science and Machine Learning program?",
+    "ANSWER": "Applicants who completed all their education in an ELR exempt country but did not graduate high school should submit their transcripts for review for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the International Credentials Assessment Fee for the Data Science and Machine Learning program?",
+    "ANSWER": "The International Credentials Assessment Fee is assessed for transcripts from the USA or an ELR exempt country before they will be reviewed for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What are the Mature Student Admission Requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The Mature Student Admission Requirements for the Data Science and Machine Learning program include being 19 years of age or older, having been out of high school for a minimum of one year, and successfully completing or being enrolled in one credit in each of the required subjects."
+  },
+  {
+    "QUESTION": "What should applicants do if they are required to complete an English language assessment for the Data Science and Machine Learning program?",
+    "ANSWER": "Applicants required to complete an English language assessment should not submit their transcripts until requested to do so for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the phone number for the Student Service Centre for assistance with the Data Science and Machine Learning program?",
+    "ANSWER": "The phone number for the Student Service Centre for assistance with the Data Science and Machine Learning program is 204-632-2327."
+  },
+  {
+    "QUESTION": "What is the website to visit for credential assessment information for internationally educated applicants in the Data Science and Machine Learning program?",
+    "ANSWER": "The website to visit for credential assessment information for internationally educated applicants in the Data Science and Machine Learning program is www.rrc.ca/credentials."
+  },
+  {
+    "QUESTION": "What is the requirement for Grade 12 Math for the Data Science and Machine Learning program?",
+    "ANSWER": "The requirement for Grade 12 Math for the Data Science and Machine Learning program is one credit in Grade 12 Math (40S), excluding Accounting 40S."
+  },
+  {
+    "QUESTION": "What should applicants do if they do not have a Future Student Account for the Data Science and Machine Learning program?",
+    "ANSWER": "Applicants who do not have a Future Student Account for the Data Science and Machine Learning program should contact the Student Service Centre for assistance."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting required documentation indicating proof of completion of admission requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The deadline for submitting required documentation indicating proof of completion of admission requirements for the Data Science and Machine Learning program is within 15 days of applying, unless otherwise noted in the program's admission requirements."
+  },
+  {
+    "QUESTION": "What should applicants do if they provide proof of enrolment at the time of application for the Data Science and Machine Learning program?",
+    "ANSWER": "If applicants provide proof of enrolment at the time of application for the Data Science and Machine Learning program, they must submit their official final grades indicating successful completion by the specified deadline."
+  },
+  {
+    "QUESTION": "What is the requirement for Grade 12 English for the Data Science and Machine Learning program?",
+    "ANSWER": "The requirement for Grade 12 English for the Data Science and Machine Learning program is one credit in Grade 12 English (40S)."
+  },
+  {
+    "QUESTION": "What should applicants do if they meet the English Language Requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "If applicants meet the English Language Requirements for the Data Science and Machine Learning program, they should apply and then submit their transcripts for review."
+  },
+  {
+    "QUESTION": "What is the process for logging in to submit documents for the Data Science and Machine Learning program?",
+    "ANSWER": "To log in and submit documents for the Data Science and Machine Learning program, applicants should go to apply.rrc.ca and log in to their Future Student Account."
+  },
+  {
+    "QUESTION": "What are the English language assessment requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The Data Science and Machine Learning program requires an overall band score of 70 and a writing score of 60 for CAEL, an overall score of 6.5 with no band below 6.0 for IELTS Academic Level, and similar scores for other approved assessments."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting official final grades for fall enrolment in the Data Science and Machine Learning program?",
+    "ANSWER": "For fall enrolment in the Data Science and Machine Learning program, official final grades must be submitted by July 15."
+  },
+  {
+    "QUESTION": "If a student in the Data Science and Machine Learning program needs to complete an English language assessment, when should they submit their transcripts?",
+    "ANSWER": "Students in the Data Science and Machine Learning program should not submit their transcripts until requested to do so if they need to complete an English language assessment."
+  },
+  {
+    "QUESTION": "What is the minimum Duolingo Language Test score required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum Duolingo Language Test score required for the Data Science and Machine Learning program is 125 with a minimum of 100 in each section."
+  },
+  {
+    "QUESTION": "What is the minimum TOEFL-ibt Academic Level score required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum TOEFL-ibt Academic Level score required for the Data Science and Machine Learning program is 90, with specific minimum scores in each section: 22L, 22S, 22R, and 24W."
+  },
+  {
+    "QUESTION": "What is the minimum PTE score required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum PTE score required for the Data Science and Machine Learning program is 60 overall, with a minimum of 55 in each skill band."
+  },
+  {
+    "QUESTION": "What is the minimum IELTS Academic Level score required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum IELTS Academic Level score required for the Data Science and Machine Learning program is an overall score of 6.5 with no band below 6.0."
+  },
+  {
+    "QUESTION": "What is the minimum CAEL score required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum CAEL score required for the Data Science and Machine Learning program is an overall band score of 70 and a writing score of 60."
+  },
+  {
+    "QUESTION": "What is the minimum LINC Certificate level required for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum LINC Certificate level required for the Data Science and Machine Learning program is 8."
+  },
+  {
+    "QUESTION": "What is the minimum score required for the Password Skills assessment for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum score required for the Password Skills assessment for the Data Science and Machine Learning program is an overall score of 6.5 with no band below 6.0."
+  },
+  {
+    "QUESTION": "What is the minimum requirement for the New English for Academic and Professional Purposes program for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum requirement for the New English for Academic and Professional Purposes program for the Data Science and Machine Learning program is successful completion of the program with a minimum of 70%."
+  },
+  {
+    "QUESTION": "What is the minimum requirement for the Academic English Program for University and College Entrance Program (AEPUCE) for the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum requirement for the Academic English Program for University and College Entrance Program (AEPUCE) for the Data Science and Machine Learning program is successful completion."
+  },
+  {
+    "QUESTION": "What is the consequence if a student in the Data Science and Machine Learning program does not meet the English language assessment requirements?",
+    "ANSWER": "If a student in the Data Science and Machine Learning program does not meet the English language assessment requirements, they may not be eligible for admission."
+  },
+  {
+    "QUESTION": "What is the policy on the modification of English language assessment information for the Data Science and Machine Learning program?",
+    "ANSWER": "The policy states that the College reserves the right to modify English language assessment information for the Data Science and Machine Learning program without notice or prejudice."
+  },
+  {
+    "QUESTION": "What is the validity period for English language assessment results for the Data Science and Machine Learning program?",
+    "ANSWER": "The validity period for English language assessment results for the Data Science and Machine Learning program is no more than two years prior to the application date."
+  },
+  {
+    "QUESTION": "What are the Grade 12 course requirements for the Data Science and Machine Learning program?",
+    "ANSWER": "The Grade 12 course requirements for the Data Science and Machine Learning program include Grade 12 English (40S) and Grade 12 Math (40S), excluding Accounting 40S."
+  },
+  {
+    "QUESTION": "What is the deadline for submitting proof of enrolment for the Data Science and Machine Learning program?",
+    "ANSWER": "Proof of enrolment for the Data Science and Machine Learning program must be provided at the time of application."
+  },
+  {
+    "QUESTION": "What is the minimum GPA requirement for the Data Science and Machine Learning program?",
+    "ANSWER": "The context does not specify a minimum GPA requirement for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the minimum passing grade for compulsory courses in the Data Science and Machine Learning program?",
+    "ANSWER": "The context does not specify a minimum passing grade for compulsory courses in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the maximum time allowed to complete the Data Science and Machine Learning program?",
+    "ANSWER": "The context does not specify the maximum time allowed to complete the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the start date for the Data Science and Machine Learning program at Manitou a bi Bii daziigae?",
+    "ANSWER": "The start date for the Data Science and Machine Learning program at Manitou a bi Bii daziigae is August 25, 2025."
+  },
+  {
+    "QUESTION": "What are the estimated program fees for the first year of the Data Science and Machine Learning program for domestic students?",
+    "ANSWER": "The estimated program fees for the first year of the Data Science and Machine Learning program for domestic students are $15,413.00."
+  },
+  {
+    "QUESTION": "What is the estimated cost for books and supplies in the first year of the Data Science and Machine Learning program?",
+    "ANSWER": "The estimated cost for books and supplies in the first year of the Data Science and Machine Learning program is $2,000.00."
+  },
+  {
+    "QUESTION": "What is the estimated program fee for international students in the first year of the Data Science and Machine Learning program?",
+    "ANSWER": "The estimated program fee for international students in the first year of the Data Science and Machine Learning program is $21,827.00."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program covers Python Essentials with Data Analysis?",
+    "ANSWER": "The course that covers Python Essentials with Data Analysis in the Data Science and Machine Learning program is COMP-2040."
+  },
+  {
+    "QUESTION": "What is the focus of the MATH-1202 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the MATH-1202 course in the Data Science and Machine Learning program is Statistics for Data Science and Machine Learning."
+  },
+  {
+    "QUESTION": "What is the purpose of the COMM-1173 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The purpose of the COMM-1173 course in the Data Science and Machine Learning program is to teach Communication Strategies."
+  },
+  {
+    "QUESTION": "What is the estimated cost for books and supplies in the second year of the Data Science and Machine Learning program?",
+    "ANSWER": "The estimated cost for books and supplies in the second year of the Data Science and Machine Learning program is $150.00."
+  },
+  {
+    "QUESTION": "What is the name of the course that introduces programming logic in the Data Science and Machine Learning program?",
+    "ANSWER": "The course that introduces programming logic in the Data Science and Machine Learning program is COMP-1296 Introduction to Programming Logic."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-1702 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the COMP-1702 course in the Data Science and Machine Learning program is Introduction to Data Science and Machine Learning."
+  },
+  {
+    "QUESTION": "What is the estimated program fee for the second year of the Data Science and Machine Learning program for domestic students?",
+    "ANSWER": "The estimated program fee for the second year of the Data Science and Machine Learning program for domestic students is $9,615.00."
+  },
+  {
+    "QUESTION": "What is the focus of the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the MATH-1204 course in the Data Science and Machine Learning program is Linear Algebra for Data Science and Machine Learning."
+  },
+  {
+    "QUESTION": "What is the focus of the COMM-2172 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the COMM-2172 course in the Data Science and Machine Learning program is Communication for the Workplace."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-1701 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the COMP-1701 course in the Data Science and Machine Learning program is Transforming Data Into Databases."
+  },
+  {
+    "QUESTION": "What is the estimated program fee for the second year of the Data Science and Machine Learning program for international students?",
+    "ANSWER": "The estimated program fee for the second year of the Data Science and Machine Learning program for international students is not specified in the context."
+  },
+  {
+    "QUESTION": "What financial assistance is available for students in the Data Science and Machine Learning program?",
+    "ANSWER": "Students in the Data Science and Machine Learning program may apply for financial assistance through the Manitoba Student Aid program."
+  },
+  {
+    "QUESTION": "What are the fundamental computer skills required for the Data Science and Machine Learning program?",
+    "ANSWER": "The fundamental computer skills required for the Data Science and Machine Learning program include keyboarding, managing files and folders, installing and managing software, and maintaining your computer (updates, virus and security checks)."
+  },
+  {
+    "QUESTION": "What is the estimated cost for a laptop included in the program fees for the Data Science and Machine Learning program?",
+    "ANSWER": "The estimated cost for a laptop included in the program fees for the Data Science and Machine Learning program is $1,600."
+  },
+  {
+    "QUESTION": "What is the recommended aptitude for students enrolling in the Data Science and Machine Learning program?",
+    "ANSWER": "Students enrolling in the Data Science and Machine Learning program should enjoy working with numbers and data, have an aptitude for math, and some aptitude for understanding programming or scripting languages."
+  },
+  {
+    "QUESTION": "What is the contact number for general information on applying for financial assistance for the Data Science and Machine Learning program?",
+    "ANSWER": "The contact number for general information on applying for financial assistance for the Data Science and Machine Learning program is 204-945-6321 or 1-800-204-1685."
+  },
+  {
+    "QUESTION": "What is the credit hour requirement for the course 'COMP-2702 Data Management' in the Data Science and Machine Learning program?",
+    "ANSWER": "The course 'COMP-2702 Data Management' in the Data Science and Machine Learning program requires 6 credit hours."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on developing skills for effective resumes and job interviews?",
+    "ANSWER": "The course 'COMM-2172 Communication for the Workplace RPL' in the Data Science and Machine Learning program focuses on developing skills for effective resumes and job interviews."
+  },
+  {
+    "QUESTION": "In the Data Science and Machine Learning program, which course introduces students to Artificial Intelligence?",
+    "ANSWER": "The course 'COMP-3703 Introduction to Artificial Intelligence' introduces students to Artificial Intelligence in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the focus of the course 'COMM-2176 Communication for Systems and Innovative Thinking' in the Data Science and Machine Learning program?",
+    "ANSWER": "The course 'COMM-2176 Communication for Systems and Innovative Thinking' focuses on developing the ability to think at a systems level and communicate information effectively in the information technology sector within the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program covers Neural Networks and Deep Learning?",
+    "ANSWER": "The course 'COMP-3704 Neural Networks and Deep Learning' covers this topic in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "How many credit hours are required for the 'COOP-4001 Data Science and Machine Learning Co-op' in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'COOP-4001 Data Science and Machine Learning Co-op' requires 6 credit hours in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the purpose of the 'COMM-1173 Communication Strategies RPL' course in the Data Science and Machine Learning program?",
+    "ANSWER": "The purpose of the 'COMM-1173 Communication Strategies RPL' course is to improve students' communication skills, interpersonal ability, intercultural competence, and digital fluency in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on Unsupervised Machine Learning?",
+    "ANSWER": "The course 'COMP-3705 Unsupervised Machine Learning' focuses on this topic in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the credit hour requirement for the 'PROJ-4001 Data Science and Machine Learning Industry Project' in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'PROJ-4001 Data Science and Machine Learning Industry Project' requires 6 credit hours in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program is designed to enhance digital fluency and interpersonal skills?",
+    "ANSWER": "The course 'COMM-2172 Communication for the Workplace RPL' is designed to enhance digital fluency and interpersonal skills in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the focus of the 'COMP-3706 Robotics and Automation' course in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'COMP-3706 Robotics and Automation' course focuses on robotics and automation technologies in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program helps students develop strategies for continuous learning?",
+    "ANSWER": "The course 'COMM-2172 Communication for the Workplace RPL' helps students develop strategies for continuous learning in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the credit hour requirement for the 'COMP-3702 Information and Data Architecture' course in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'COMP-3702 Information and Data Architecture' course requires 6 credit hours in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on Supervised Machine Learning?",
+    "ANSWER": "The course 'COMP-2704 Supervised Machine Learning' focuses on this topic in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the credit hour requirement for the 'COMP-2036 Introduction to Bioinformatics' elective in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'COMP-2036 Introduction to Bioinformatics' elective requires 3 credit hours in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program emphasizes project-based activities to improve communication skills?",
+    "ANSWER": "The course 'COMM-1173 Communication Strategies RPL' emphasizes project-based activities to improve communication skills in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the total cost of the Data Science and Machine Learning program as mentioned in the context?",
+    "ANSWER": "The total cost of the Data Science and Machine Learning program is $16,795.00 as mentioned in the context."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on analyzing problems to come up with innovative solutions?",
+    "ANSWER": "The course 'COMM-2176 Communication for Systems and Innovative Thinking' focuses on analyzing problems to come up with innovative solutions in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the credit hour requirement for the 'COMM-2176 Communication for Systems and Innovative Thinking' course in the Data Science and Machine Learning program?",
+    "ANSWER": "The 'COMM-2176 Communication for Systems and Innovative Thinking' course requires 3 credit hours in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program involves collaboration to manage, analyze, and communicate information?",
+    "ANSWER": "The course 'COMM-2176 Communication for Systems and Innovative Thinking' involves collaboration to manage, analyze, and communicate information in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the Data Science and Machine Learning program's Introduction to Programming Logic course?",
+    "ANSWER": "The prerequisite for the Introduction to Programming Logic course (COMP-1296) in the Data Science and Machine Learning program is COMM-1173."
+  },
+  {
+    "QUESTION": "What are the key topics covered in the Introduction to Programming Logic course in the Data Science and Machine Learning program?",
+    "ANSWER": "The Introduction to Programming Logic course in the Data Science and Machine Learning program covers high-level modeling, numeral systems, Boolean operations, assignment, sequence, iteration, decision, modular abstraction, arrays, and strings."
+  },
+  {
+    "QUESTION": "What skills will students develop in the Transforming Data Into Databases course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the Transforming Data Into Databases course, students will develop skills in data handling, parsing, structuring, manipulating datasets, producing ERDs, and using SQL and NoSQL data types."
+  },
+  {
+    "QUESTION": "What advanced SQL skills are taught in the Data Science and Machine Learning program's Transforming Data Into Databases course?",
+    "ANSWER": "The Transforming Data Into Databases course in the Data Science and Machine Learning program teaches advanced SQL skills such as complex JOINs, advanced mathematical and string functions, and full-text search indexing functions."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program's Transforming Data Into Databases course address query performance?",
+    "ANSWER": "The Transforming Data Into Databases course in the Data Science and Machine Learning program addresses query performance by teaching students common practices of indexing and de-normalization."
+  },
+  {
+    "QUESTION": "What is the focus of the Introduction to Data Science and Machine Learning course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the Introduction to Data Science and Machine Learning course is to introduce students to the fields of Data Science and Machine Learning and their application in real business scenarios."
+  },
+  {
+    "QUESTION": "What will students learn about industry tools in the Data Science and Machine Learning program's Introduction to Data Science and Machine Learning course?",
+    "ANSWER": "Students will learn about industry-standard tools and technologies used in Data Science and Machine Learning in the Introduction to Data Science and Machine Learning course."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program's Introduction to Data Science and Machine Learning course use case studies?",
+    "ANSWER": "The Introduction to Data Science and Machine Learning course uses real case studies to show how industry has applied DSML tools to improve performance."
+  },
+  {
+    "QUESTION": "What is the expected outcome for students by the end of the Introduction to Data Science and Machine Learning course in the Data Science and Machine Learning program?",
+    "ANSWER": "By the end of the course, students are expected to contrast how DSML tools have impacted industry performance metrics compared to conventional methods."
+  },
+  {
+    "QUESTION": "What programming language is used in the Introduction to Bioinformatics course in the Data Science and Machine Learning program?",
+    "ANSWER": "The Introduction to Bioinformatics course uses an industry-standard programming language for coding challenges."
+  },
+  {
+    "QUESTION": "What bioinformatics topics are covered in the Data Science and Machine Learning program's Introduction to Bioinformatics course?",
+    "ANSWER": "The Introduction to Bioinformatics course covers topics such as locating ori-C in small genomes, finding regulatory motifs, graph algorithms, and the genome reconstruction problem."
+  },
+  {
+    "QUESTION": "What is the main goal of the Introduction to Bioinformatics course in the Data Science and Machine Learning program?",
+    "ANSWER": "The main goal of the Introduction to Bioinformatics course is to introduce students to basic techniques and algorithms of bioinformatics through coding challenges."
+  },
+  {
+    "QUESTION": "What is the significance of Boolean operations in the Data Science and Machine Learning program's Introduction to Programming Logic course?",
+    "ANSWER": "Boolean operations are significant in the Introduction to Programming Logic course as they help students analyze, interpret, and re-write word problems as Boolean expressions."
+  },
+  {
+    "QUESTION": "What is the role of Entity Relationship Diagrams in the Data Science and Machine Learning program's Transforming Data Into Databases course?",
+    "ANSWER": "Entity Relationship Diagrams are used in the Transforming Data Into Databases course to help students view, understand, and normalize datasets."
+  },
+  {
+    "QUESTION": "What types of databases are explored in the Data Science and Machine Learning program's Transforming Data Into Databases course?",
+    "ANSWER": "The Transforming Data Into Databases course explores various database types, including SQL and NoSQL databases."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program's Introduction to Data Science and Machine Learning course define common terms?",
+    "ANSWER": "The course provides definitions and meanings of common terms used in the fields of Data Science and Machine Learning."
+  },
+  {
+    "QUESTION": "What is the importance of modular abstraction in the Data Science and Machine Learning program's Introduction to Programming Logic course?",
+    "ANSWER": "Modular abstraction is important in the Introduction to Programming Logic course as it helps students understand how to break down complex problems into manageable parts."
+  },
+  {
+    "QUESTION": "What is the significance of arrays and strings in the Data Science and Machine Learning program's Introduction to Programming Logic course?",
+    "ANSWER": "Arrays and strings are significant in the Introduction to Programming Logic course as they are fundamental data structures used in programming."
+  },
+  {
+    "QUESTION": "What is the purpose of learning graph algorithms in the Data Science and Machine Learning program's Introduction to Bioinformatics course?",
+    "ANSWER": "The purpose of learning graph algorithms in the Introduction to Bioinformatics course is to solve problems related to genome analysis and reconstruction."
+  },
+  {
+    "QUESTION": "How does the Data Science and Machine Learning program's Introduction to Bioinformatics course approach the genome reconstruction problem?",
+    "ANSWER": "The Introduction to Bioinformatics course approaches the genome reconstruction problem through coding challenges that apply bioinformatics algorithms."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-2040 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-2040 course in the Data Science and Machine Learning program focuses on teaching Python programming fundamentals and introducing students to data science and machine learning as they are used in business applications."
+  },
+  {
+    "QUESTION": "Which tools are used in the COMP-2040 course of the Data Science and Machine Learning program?",
+    "ANSWER": "The tools used in the COMP-2040 course of the Data Science and Machine Learning program include Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn."
+  },
+  {
+    "QUESTION": "What are the prerequisites for enrolling in the COMP-2040 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisite for enrolling in the COMP-2040 course in the Data Science and Machine Learning program is COMP-1296."
+  },
+  {
+    "QUESTION": "What skills will students acquire in the COMP-2702 course of the Data Science and Machine Learning program?",
+    "ANSWER": "In the COMP-2702 course of the Data Science and Machine Learning program, students will acquire skills in manipulating and managing data, inspecting and visualizing data, and maintaining data security and integrity."
+  },
+  {
+    "QUESTION": "What are the prerequisites for the COMP-2702 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisites for the COMP-2702 course in the Data Science and Machine Learning program are COMP-1702 and MATH-1202."
+  },
+  {
+    "QUESTION": "What types of databases are covered in the COMP-2702 course of the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-2702 course of the Data Science and Machine Learning program covers relational, document, and network databases."
+  },
+  {
+    "QUESTION": "What is the main focus of the COMP-2704 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The main focus of the COMP-2704 course in the Data Science and Machine Learning program is on supervised machine learning, where algorithms are trained on labeled data to classify items or predict outcomes."
+  },
+  {
+    "QUESTION": "Which programming language is used in the COMP-2704 course of the Data Science and Machine Learning program?",
+    "ANSWER": "Python is used in the COMP-2704 course of the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What types of supervised learning algorithms are covered in the COMP-2704 course of the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-2704 course of the Data Science and Machine Learning program covers supervised learning algorithms including polynomial regression, support vector machines, and decision trees."
+  },
+  {
+    "QUESTION": "What is the purpose of using data in the COMP-2704 course of the Data Science and Machine Learning program?",
+    "ANSWER": "In the COMP-2704 course of the Data Science and Machine Learning program, data is used to train, validate, and test models for common use cases in business and data science."
+  },
+  {
+    "QUESTION": "What is the role of data visualization in the COMP-2702 course of the Data Science and Machine Learning program?",
+    "ANSWER": "In the COMP-2702 course of the Data Science and Machine Learning program, data visualization is used to inspect data for statistical, aggregate, and design pattern characteristics."
+  },
+  {
+    "QUESTION": "How does the COMP-2702 course in the Data Science and Machine Learning program address data security?",
+    "ANSWER": "The COMP-2702 course in the Data Science and Machine Learning program addresses data security through encryption, anonymization, sanitization, roles access, and walled infrastructures."
+  },
+  {
+    "QUESTION": "What methods are taught in the COMP-2702 course of the Data Science and Machine Learning program to maintain data integrity?",
+    "ANSWER": "The COMP-2702 course of the Data Science and Machine Learning program teaches methods to maintain data integrity through versioning, backups, archiving, and restoration approaches."
+  },
+  {
+    "QUESTION": "What is the significance of the COMP-2040 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The significance of the COMP-2040 course in the Data Science and Machine Learning program lies in its focus on Python programming fundamentals and its introduction to data science and machine learning applications in business."
+  },
+  {
+    "QUESTION": "What foundational skills are emphasized in the COMP-2040 course of the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-2040 course of the Data Science and Machine Learning program emphasizes foundational skills in Python programming and data analytics."
+  },
+  {
+    "QUESTION": "What is the relationship between the COMP-2704 course and business applications in the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-2704 course in the Data Science and Machine Learning program relates to business applications by training students to use supervised learning algorithms for common use cases in business and data science."
+  },
+  {
+    "QUESTION": "How does the COMP-2702 course in the Data Science and Machine Learning program prepare students for data management?",
+    "ANSWER": "The COMP-2702 course in the Data Science and Machine Learning program prepares students for data management by teaching them to manipulate and manage data from raw source formats to functional structures."
+  },
+  {
+    "QUESTION": "What is the educational approach of the COMP-2040 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The educational approach of the COMP-2040 course in the Data Science and Machine Learning program involves starting with fundamental building blocks and progressing to more comprehensive examples."
+  },
+  {
+    "QUESTION": "What is the role of machine learning in the COMP-2040 course of the Data Science and Machine Learning program?",
+    "ANSWER": "In the COMP-2040 course of the Data Science and Machine Learning program, machine learning is introduced as part of the curriculum to demonstrate its use in business applications."
+  },
+  {
+    "QUESTION": "What is the importance of data preparation in the COMP-2040 course of the Data Science and Machine Learning program?",
+    "ANSWER": "The importance of data preparation in the COMP-2040 course of the Data Science and Machine Learning program lies in its role in interpreting and preparing data for analysis."
+  },
+  {
+    "QUESTION": "What is the prerequisite for enrolling in the COMP-3702 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisites for enrolling in the COMP-3702 course are MATH-1204, MATH-1202, and COMP-2040."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on creating blueprints for data management systems?",
+    "ANSWER": "The COMP-3702 Information and Data Architecture course focuses on creating blueprints for data management systems."
+  },
+  {
+    "QUESTION": "What are the prerequisites for the COMP-3703 Introduction to Artificial Intelligence course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisites for the COMP-3703 course are COMP-2702."
+  },
+  {
+    "QUESTION": "In the Data Science and Machine Learning program, which course introduces students to the perceptron as a fundamental building block?",
+    "ANSWER": "The COMP-3704 Neural Networks and Deep Learning course introduces students to the perceptron as a fundamental building block."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-3705 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The COMP-3705 course focuses on unsupervised machine learning, where models are trained to identify clusters and find relationships in unlabelled data."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program uses Python to develop code for clustering models?",
+    "ANSWER": "The COMP-3705 Unsupervised Machine Learning course uses Python to develop code for clustering models."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the COMP-3704 Neural Networks and Deep Learning course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisite for the COMP-3704 course is COMP-2704."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program involves working with Robot Operating System (ROS2)?",
+    "ANSWER": "The COMP-3706 Robotics and Automation course involves working with Robot Operating System (ROS2)."
+  },
+  {
+    "QUESTION": "What are the prerequisites for the COMP-3706 Robotics and Automation course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisite for the COMP-3706 course is COMP-2704."
+  },
+  {
+    "QUESTION": "In the Data Science and Machine Learning program, which course covers the role of logic and probability in AI algorithms?",
+    "ANSWER": "The COMP-3703 Introduction to Artificial Intelligence course covers the role of logic and probability in AI algorithms."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program teaches students how to develop, train, and test neural networks using code?",
+    "ANSWER": "The COMP-3704 Neural Networks and Deep Learning course teaches students how to develop, train, and test neural networks using code."
+  },
+  {
+    "QUESTION": "What is the main application of deep learning discussed in the Data Science and Machine Learning program's COMP-3704 course?",
+    "ANSWER": "The main applications of deep learning discussed in the COMP-3704 course include finance, medicine, computer vision, and language processing."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program focuses on the integration, centralization, protection, and maintenance of information and data?",
+    "ANSWER": "The COMP-3702 Information and Data Architecture course focuses on the integration, centralization, protection, and maintenance of information and data."
+  },
+  {
+    "QUESTION": "What is the primary focus of the COMP-3706 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The primary focus of the COMP-3706 course is on robotics and automation, including vision, motion control, and processing sensor data."
+  },
+  {
+    "QUESTION": "In the Data Science and Machine Learning program, which course requires COMP-2702 as a prerequisite?",
+    "ANSWER": "The COMP-3703 Introduction to Artificial Intelligence course requires COMP-2702 as a prerequisite."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program involves the use of AWS RoboMaker?",
+    "ANSWER": "The COMP-3706 Robotics and Automation course involves the use of AWS RoboMaker."
+  },
+  {
+    "QUESTION": "What is the focus of the COMP-3705 course in the Data Science and Machine Learning program regarding data?",
+    "ANSWER": "The focus of the COMP-3705 course is on unsupervised machine learning, specifically identifying clusters and finding relationships in unlabelled data."
+  },
+  {
+    "QUESTION": "Which course in the Data Science and Machine Learning program covers statistical machine learning and neural networks?",
+    "ANSWER": "The COMP-3703 Introduction to Artificial Intelligence course covers statistical machine learning and neural networks."
+  },
+  {
+    "QUESTION": "What is the prerequisite for the COMP-3705 Unsupervised Machine Learning course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisite for the COMP-3705 course is COMP-2704."
+  },
+  {
+    "QUESTION": "In the Data Science and Machine Learning program, which course involves creating a plan to integrate and maintain data?",
+    "ANSWER": "The COMP-3702 Information and Data Architecture course involves creating a plan to integrate and maintain data."
+  },
+  {
+    "QUESTION": "What is the purpose of the COOP-4001 Data Science and Machine Learning Co-op in the Data Science and Machine Learning program?",
+    "ANSWER": "The purpose of the COOP-4001 Data Science and Machine Learning Co-op is to integrate related on-the-job experience with classroom theory by incorporating a term of paid or unpaid employment within the terms of academic study."
+  },
+  {
+    "QUESTION": "How long is each work placement in the COOP-4001 Data Science and Machine Learning Co-op?",
+    "ANSWER": "Each work placement in the COOP-4001 Data Science and Machine Learning Co-op is a minimum of 16 weeks."
+  },
+  {
+    "QUESTION": "What is the role of the department and employer in the COOP-4001 Data Science and Machine Learning Co-op?",
+    "ANSWER": "In the COOP-4001 Data Science and Machine Learning Co-op, the department and employer are responsible for monitoring and evaluating student performance."
+  },
+  {
+    "QUESTION": "What is the prerequisite for enrolling in the COOP-4001 Data Science and Machine Learning Co-op?",
+    "ANSWER": "The prerequisites for enrolling in the COOP-4001 Data Science and Machine Learning Co-op include courses such as COMM-1173, COMP-1296, COMP-1702, MATH-1202, MATH-1204, COMP-2040, COMM-2172, COMP-1701, COMP-2702, COMP-2704, COMM-2176, COMP-3703, and COMP-3705."
+  },
+  {
+    "QUESTION": "What is the focus of the MATH-1202 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The focus of the MATH-1202 course in the Data Science and Machine Learning program is to familiarize students with sampling methods and estimations, presenting and describing data, probabilities, and hypothesis testing."
+  },
+  {
+    "QUESTION": "What foundational concepts are reviewed in the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1204 course in the Data Science and Machine Learning program, students begin with a review of foundational concepts in algebra and graphing linear equations."
+  },
+  {
+    "QUESTION": "What core topics are covered in the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The core topics covered in the MATH-1204 course in the Data Science and Machine Learning program include geometry, vectors, and matrices."
+  },
+  {
+    "QUESTION": "What is the purpose of the job search and resume development workshops in the Data Science and Machine Learning program?",
+    "ANSWER": "The purpose of the job search and resume development workshops in the Data Science and Machine Learning program is to prepare students for the recruitment process."
+  },
+  {
+    "QUESTION": "When does the placement of eligible students occur in the COOP-4001 Data Science and Machine Learning Co-op?",
+    "ANSWER": "The placement of eligible students in the COOP-4001 Data Science and Machine Learning Co-op occurs in either January or May."
+  },
+  {
+    "QUESTION": "What is the significance of vectors in the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1204 course in the Data Science and Machine Learning program, vectors are significant because they can represent data, and matrix operations are used to manipulate this information and obtain results."
+  },
+  {
+    "QUESTION": "What is the duration of the intense program of job search and resume development workshops in the Data Science and Machine Learning program?",
+    "ANSWER": "The duration of the intense program of job search and resume development workshops in the Data Science and Machine Learning program is 4 weeks."
+  },
+  {
+    "QUESTION": "What is the purpose of the midterm review in the COOP-4001 Data Science and Machine Learning Co-op?",
+    "ANSWER": "The purpose of the midterm review in the COOP-4001 Data Science and Machine Learning Co-op is for each student to participate in a review of their employment midway through the semester."
+  },
+  {
+    "QUESTION": "What are the elective options available in the Data Science and Machine Learning program?",
+    "ANSWER": "The elective options available in the Data Science and Machine Learning program include COMP-2036, COMP-3702, COMP-3704, and COMP-3706."
+  },
+  {
+    "QUESTION": "What is the role of statistics in the MATH-1202 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1202 course in the Data Science and Machine Learning program, statistics play a fundamental role in the study of data science and machine learning."
+  },
+  {
+    "QUESTION": "What is the relationship between classroom theory and on-the-job experience in the Data Science and Machine Learning program?",
+    "ANSWER": "In the Data Science and Machine Learning program, classroom theory is integrated with on-the-job experience through the COOP-4001 Data Science and Machine Learning Co-op."
+  },
+  {
+    "QUESTION": "What is the significance of matrix operations in the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1204 course in the Data Science and Machine Learning program, matrix operations are significant because they are used to manipulate data and obtain results."
+  },
+  {
+    "QUESTION": "What is the main objective of the COOP-4001 Data Science and Machine Learning Co-op for students?",
+    "ANSWER": "The main objective of the COOP-4001 Data Science and Machine Learning Co-op for students is to provide them with the opportunity to practice and apply the skills gained during the academic semesters of their program as productive full-time employees on their work term."
+  },
+  {
+    "QUESTION": "What is the importance of hypothesis testing in the MATH-1202 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1202 course in the Data Science and Machine Learning program, hypothesis testing is important as it is a fundamental concept in the study of data science and machine learning."
+  },
+  {
+    "QUESTION": "What is the role of geometry in the MATH-1204 course in the Data Science and Machine Learning program?",
+    "ANSWER": "In the MATH-1204 course in the Data Science and Machine Learning program, geometry is one of the core topics covered to help students understand how vectors and matrices can represent and manipulate data."
+  },
+  {
+    "QUESTION": "What is the significance of the recruitment process preparation in the Data Science and Machine Learning program?",
+    "ANSWER": "The significance of the recruitment process preparation in the Data Science and Machine Learning program is to equip students with the necessary skills and knowledge to successfully secure employment during their co-op term."
+  },
+  {
+    "QUESTION": "What is the purpose of the Industry Project option in the Data Science and Machine Learning program?",
+    "ANSWER": "The Industry Project option provides real-world experience in applying data science and machine learning skills to a project requiring cross-functional teamwork while meeting client requirements and completing deliverables outlined in the project charter."
+  },
+  {
+    "QUESTION": "What methodology is used for project management in the Industry Project of the Data Science and Machine Learning program?",
+    "ANSWER": "The Agile methodology is used for project management in the Industry Project of the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What are the prerequisites for enrolling in the PROJ-4001 course in the Data Science and Machine Learning program?",
+    "ANSWER": "The prerequisites for enrolling in the PROJ-4001 course include COMM-1173, COMP-1296, COMP-1702, MATH-1202, MATH-1204, COMP-2040, COMM-2172, COMP-1701, COMP-2702, COMP-2704, COMM-2176, COMP-3703, and COMP-3705."
+  },
+  {
+    "QUESTION": "What is the role of the ACE Project Space in the Data Science and Machine Learning program?",
+    "ANSWER": "The ACE Project Space provides a facility where students work jointly with industry partners on real-world projects as part of the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What skills are further developed through the Industry Project in the Data Science and Machine Learning program?",
+    "ANSWER": "The Industry Project further develops soft skills including interpersonal, verbal, and written communication through teamwork and collaboration with project stakeholders."
+  },
+  {
+    "QUESTION": "What is the purpose of the Co-operative Education component in the Data Science and Machine Learning program?",
+    "ANSWER": "The Co-operative Education component integrates related on-the-job experience with classroom theory by incorporating a term of paid employment within the academic program."
+  },
+  {
+    "QUESTION": "What is required for students to graduate from the Data Science and Machine Learning program?",
+    "ANSWER": "To graduate, students need to meet the program's specific requirements, which are not fully detailed in the provided context."
+  },
+  {
+    "QUESTION": "What is the significance of the laptop requirements in the Data Science and Machine Learning program?",
+    "ANSWER": "The laptop requirements are higher than for other programs at RRC Polytech, and students need to review them before purchasing their computer for the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the Recognition of Prior Learning (RPL) process in the context of the Data Science and Machine Learning program?",
+    "ANSWER": "The Recognition of Prior Learning (RPL) process documents and compares an individual's prior learning to the learning outcomes in College courses/programs."
+  },
+  {
+    "QUESTION": "What is the role of Entrepreneurs in Residence in the Data Science and Machine Learning program?",
+    "ANSWER": "Entrepreneurs in Residence may work with students to develop a product for a startup company or an application for a small business or non-profit organization as part of the Industry Project."
+  },
+  {
+    "QUESTION": "What is the fee structure for students registered in an industry project term in the Data Science and Machine Learning program?",
+    "ANSWER": "A fee is charged to all students registered in an industry project term in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the purpose of the Work Integrated Learning (WIL) experience in the Data Science and Machine Learning program?",
+    "ANSWER": "The Work Integrated Learning (WIL) experience integrates course theory with real-life learning, providing practical experience in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What are the elective options available in the Data Science and Machine Learning program?",
+    "ANSWER": "Students can take two electives from COMP-2036, COMP-3702, COMP-3704, and COMP-3706 in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of cross-functional teams in the Data Science and Machine Learning program?",
+    "ANSWER": "Cross-functional teams work together to evaluate, analyze, plan, research, model, design, document, develop, test, and manage a project in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the significance of the Co-op tuition fee in the Data Science and Machine Learning program?",
+    "ANSWER": "The Co-op tuition fee covers work placement development, pre-employment instruction, and employment-related monitoring in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of critical thinking in the Data Science and Machine Learning program?",
+    "ANSWER": "Critical thinking is enhanced as students work on projects, solving problems and conducting research independently in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the importance of high-speed internet access in the Data Science and Machine Learning program?",
+    "ANSWER": "High-speed internet access is important for attending online classes and accessing resources in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of problem-solving skills in the Data Science and Machine Learning program?",
+    "ANSWER": "Problem-solving skills are developed as students work on real-world projects, addressing challenges and finding solutions in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of teamwork in the Data Science and Machine Learning program?",
+    "ANSWER": "Teamwork is crucial as students collaborate with project stakeholders and work in cross-functional teams in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of life-long learning skills in the Data Science and Machine Learning program?",
+    "ANSWER": "Life-long learning skills are enhanced as students engage in continuous learning and adaptation throughout the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the minimum overall program GPA required to graduate from the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum overall program GPA required to graduate from the Data Science and Machine Learning program is 2.0."
+  },
+  {
+    "QUESTION": "What is the minimum passing course grade requirement in the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum passing course grade requirement in the Data Science and Machine Learning program is a D, which is 50%."
+  },
+  {
+    "QUESTION": "How many full-course equivalents must be completed in the Data Science and Machine Learning program?",
+    "ANSWER": "Students must complete a total of 14.5 full-course equivalents in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the total number of credit hours required to graduate from the Data Science and Machine Learning program?",
+    "ANSWER": "A total of 87 credit hours are required to graduate from the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Within how many years must students complete the Data Science and Machine Learning program?",
+    "ANSWER": "Students must complete the Data Science and Machine Learning program within six years of their initial enrolment."
+  },
+  {
+    "QUESTION": "What service can provide information about full-time programs in the Data Science and Machine Learning program?",
+    "ANSWER": "The Academic Advising Service can provide information about full-time programs in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Who should Indigenous students contact for admissions advice in the Data Science and Machine Learning program?",
+    "ANSWER": "Indigenous students should contact an Indigenous Admissions Advisor for admissions advice in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "Who should international students contact for information about the Data Science and Machine Learning program?",
+    "ANSWER": "International students should contact International Education for information about the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the purpose of the academic advising service in relation to the Data Science and Machine Learning program?",
+    "ANSWER": "The academic advising service helps students select the right program to meet their career and academic goals in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the latest time classes may be scheduled in the Data Science and Machine Learning program?",
+    "ANSWER": "Classes in the Data Science and Machine Learning program may be scheduled as late as 10:00 p.m."
+  },
+  {
+    "QUESTION": "What is the earliest time classes may be scheduled in the Data Science and Machine Learning program?",
+    "ANSWER": "Classes in the Data Science and Machine Learning program may be scheduled as early as 8:00 a.m."
+  },
+  {
+    "QUESTION": "What does Red River College Polytechnic reserve the right to do regarding the Data Science and Machine Learning program?",
+    "ANSWER": "Red River College Polytechnic reserves the right to modify or cancel any course, program, process, or procedure in the Data Science and Machine Learning program without notice or prejudice."
+  },
+  {
+    "QUESTION": "Can fees change without notice in the Data Science and Machine Learning program?",
+    "ANSWER": "Yes, fees may change without notice in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What must students ensure regarding course selection in the Data Science and Machine Learning program?",
+    "ANSWER": "Students must ensure they take the appropriate courses to meet the requirements for graduation in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the date of the page production for the Data Science and Machine Learning program information?",
+    "ANSWER": "The page production date for the Data Science and Machine Learning program information is 2025-06-02."
+  },
+  {
+    "QUESTION": "What is the role of the Indigenous Admissions Advisor in the Data Science and Machine Learning program?",
+    "ANSWER": "The Indigenous Admissions Advisor provides admissions advice to Indigenous students in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the role of International Education in the Data Science and Machine Learning program?",
+    "ANSWER": "International Education provides information and support to international students in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the minimum grade required to pass a course in the Data Science and Machine Learning program?",
+    "ANSWER": "The minimum grade required to pass a course in the Data Science and Machine Learning program is a D, which is 50%."
+  },
+  {
+    "QUESTION": "What is the total number of credit hours required for the Work Integrated Learning term in the Data Science and Machine Learning program?",
+    "ANSWER": "The Work Integrated Learning term is part of the total 87 credit hours required in the Data Science and Machine Learning program."
+  },
+  {
+    "QUESTION": "What is the responsibility of students regarding graduation requirements in the Data Science and Machine Learning program?",
+    "ANSWER": "Students are responsible for ensuring they take the appropriate courses to meet the graduation requirements in the Data Science and Machine Learning program."
+  }
+]
