@@ -2,7 +2,7 @@ import os
 import json
 
 jsonl_folder = "jsonl"
-merged_file = "merged_adnd_dataset.jsonl"
+merged_file = "RRC_DISTRICT_IT_dataset.jsonl"
 
 merged_data = []
 

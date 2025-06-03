@@ -14,6 +14,55 @@ ADD_Print_Friendly_elements
 }}
 ```
 
+ADMASSI_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What is the duration of the Administrative Assistant program?",
+    "ANSWER": "The Administrative Assistant program is an eighteen-week certificate program that includes a four-week practicum."
+}},
+{{
+    "QUESTION": "Where is the Administrative Assistant program offered?",
+    "ANSWER": "The program is offered full-time or part-time at multiple campuses including Notre Dame (Winnipeg), Interlake (Selkirk), Peguis-Fisher River (Peguis), Portage (Portage la Prairie), Steinbach (Steinbach), and Winkler (Winkler)."
+}},
+{{
+    "QUESTION": "What skills are taught in the Customer Service (BUSA-1081) in the Administrative Assistant program?",
+    "ANSWER": "The Customer Service course focuses on listening, empathy, customer motivation, communication, conflict resolution, and interpersonal communication skills."
+}}
+```
+
+ADVMANU_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What will students learn in the Artificial Intelligence (COMP-3023) course of the Advanced Manufacturing program?",
+    "ANSWER": "In Artificial Intelligence (COMP-3023), students review how AI algorithms work and explore their capabilities, risks, applications, evolution, and ethics in advanced manufacturing. Students conduct cost-benefit analyses, evaluate AI integrity, and assess success using cost, quality, delivery, and performance metrics."
+}},
+{{
+    "QUESTION": "What does the Business Intelligence (COMP-3025) course in the Advanced Manufacturing program focus on?",
+    "ANSWER": "In Business Intelligence (COMP-3025), students explore BI technologies and processes including data collection, analysis, visualization, and reporting. They learn to generate insights for strategic and operational decision-making in the manufacturing sector."
+}},
+{{
+    "QUESTION": "Is there a work-integrated learning component in the Advanced Manufacturing program?",
+    "ANSWER": "Yes, the program includes a 160-hour Industry Project in Advanced Manufacturing with an industry partner."
+}}
+```
+
+AEROMANU_Print_Friendly_elements
+```json
+{{
+    "QUESTION": "What is the Aerospace Manufacturing program at Red River College?",
+    "ANSWER": "The Aerospace Manufacturing program at Red River College is a five-month certificate offered at the Stevenson Campus in Winnipeg. It was developed in collaboration with Boeing Canada and Bristol Aerospace. The program is 25% theory-based and 75% hands-on and prepares students for careers in aerospace composite manufacturing through nine structured courses."
+}},
+{{
+    "QUESTION": "What are the admission requirements for the Aerospace Manufacturing program at Red River College?",
+    "ANSWER": "Applicants to the Aerospace Manufacturing program must have Grade 12 standing with credits in English 40S and Math 40S. They must also meet English Language Requirements (ELRs). Mature applicants (19+ years old, out of school for at least a year) can apply with successful completion or enrollment in Grade 12 English and Math. All documents must be submitted within 15 days of applying (or 5 days if applying within 6 weeks of the program start date)."
+}},
+{{
+    "QUESTION": "What does the Sheet Metal and Composite Assembly (AVIA-1049) course cover in the Aerospace Manufacturing program?",
+    "ANSWER": "Sheet Metal and Composite Assembly (AVIA-1049) covers alignment and attachment of parts, drilling, trimming, and fastener installation. Students practice using temporary fasteners, deburring, wet installations, and installing various aerospace fasteners like rivets, blind bolts, and nutplates."
+}}
+```
+
+
 DSML_Print_Friendly_elements
 ```json
 {{
@@ -109,7 +158,7 @@ NETSYS_Print_Friendly_elements
 }}
 ```
 
-rrc_viewbook_Print_Friendly_elements
+rrc-viewbook-v1qros_Print_Friendly_elements
 ```json
 {{
     "QUESTION": "Where are the Student Service Centres located at Red River College?",
@@ -124,3 +173,5 @@ rrc_viewbook_Print_Friendly_elements
     "ANSWER": "Libraries are located at both Notre Dame and Exchange District Campuses, offering books, databases, media services, and reciprocal borrowing from U of M and U of W."
 }}
 ```
+
+SOCICDEV_Print_Friendly_elements
